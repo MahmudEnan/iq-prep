@@ -64,8 +64,13 @@ async function readArticles(now) {
         const title = clean(item.title);
         const link = item.link || "";
         const snippet = clean(
-          item.contentSnippet || item.content || item.summary || ""
-        ).slice(0, 700);
+  item.contentSnippet ||
+  item.content ||
+  item.summary ||
+  item.contentEncoded ||
+  item.title ||
+  ""
+).slice(0, 700);
 
         if (
           !title ||
