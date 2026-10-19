@@ -72,13 +72,13 @@ async function readArticles(now) {
   ""
 ).slice(0, 700);
 
-        if (
-          !title ||
-          !/^https?:\/\//i.test(link) ||
-          snippet.length < 25
-        ) {
-          continue;
-        }
+       if (
+  !title ||
+  !/^https?:\/\//i.test(link) ||
+  !snippet
+) {
+  continue;
+}
 
         const publishedAt = item.isoDate || item.pubDate || "";
         const publishedTime = Date.parse(publishedAt);
