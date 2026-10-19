@@ -1,0 +1,13 @@
+{
+  "name": "t7-current-affairs-auto-update",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update:current-affairs": "node scripts/update-current-affairs.js"
+  },
+  "dependencies": {
+    "openai": "^5.0.0",
+    "rss-parser": "^3.13.0"
+  }
+}
