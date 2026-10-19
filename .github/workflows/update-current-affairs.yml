@@ -30,11 +30,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Fetch RSS and generate MCQs
+      - name: Fetch RSS and create headline quizzes
         run: npm run update:current-affairs
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: gpt-4o-mini
           MAX_QUESTIONS_PER_RUN: "8"
 
       - name: Commit updated questions
