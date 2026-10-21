@@ -1,58 +1,36 @@
-/* T7 Current Affairs: isolated online-only module. Never mutates QUESTIONS or offline model data. */
+/* T7 Current Affairs: live feed + expiring local questions, kept separate from offline IQ bank. */
 (() => {
-  const EXPIRE_MS = 72 * 60 * 60 * 1000;
-  let items = [];
-  const $ = id => document.getElementById(id);
-  const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  function alive(q, now = Date.now()) {
-    const created = Date.parse(q.createdAt || q.verifiedAt || q.publishedAt || '');
-    const explicitExpiry = Date.parse(q.expiresAt || '');
-    const expiry = Number.isFinite(explicitExpiry) ? explicitExpiry : (Number.isFinite(created) ? created + EXPIRE_MS : 0);
-    return expiry > now && Number.isFinite(created) && created <= now + 5 * 60 * 1000;
+  const EXPIRE_MS=72*60*60*1000, MANUAL_KEY='t7ManualCurrentAffairs';
+  let items=[], practiceQuestions=[], practiceSubmitted=false;
+  const $=id=>document.getElementById(id);
+  const readManual=()=>{try{const v=JSON.parse(localStorage.getItem(MANUAL_KEY)||'[]');return Array.isArray(v)?v:[]}catch{return []}};
+  const writeManual=v=>localStorage.setItem(MANUAL_KEY,JSON.stringify(v));
+  const pruneManual=()=>{const now=Date.now(),rows=readManual(),alive=rows.filter(q=>Number.isFinite(Date.parse(q.expiresAt||''))&&Date.parse(q.expiresAt)>now);if(alive.length!==rows.length)writeManual(alive);return alive;};
+  const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  function alive(q,now=Date.now()){const created=Date.parse(q.createdAt||q.verifiedAt||q.publishedAt||'');const exp=Date.parse(q.expiresAt||'');const expiry=Number.isFinite(exp)?exp:(Number.isFinite(created)?created+EXPIRE_MS:0);return expiry>now&&Number.isFinite(created)&&created<=now+5*60*1000;}
+  function category(q){const s=`${q.category||''} ${q.question||''}`.toLowerCase();if(/bangladesh|dhaka|bangladeshi|বাংলাদেশ/.test(s))return 'Bangladesh';if(/sport|football|cricket|olympic|tennis/.test(s))return 'Sports';if(/science|technology|ai |artificial intelligence|space|satellite/.test(s))return 'Science & Technology';if(/econom|trade|bank|inflation|gdp|market/.test(s))return 'Economy';if(/international|united nations|\bun\b|world|global|summit|president|prime minister/.test(s))return 'International';return 'General';}
+  function combined(){const local=pruneManual();return [...items,...local].filter(q=>q&&q.question&&Array.isArray(q.options)&&q.options.length===4&&Number.isInteger(q.answer)&&q.answer>=0&&q.answer<4&&alive(q));}
+  function render(){const landingCount=$('caLandingCount');if(landingCount){const count=combined().length;landingCount.textContent=`${count} active question${count===1?'':'s'} · Open question centre`;}const filter=$('caTopic')?.value||'ALL',all=combined(),shown=all.filter(q=>filter==='ALL'||category(q)===filter);if($('caTotal'))$('caTotal').textContent=String(shown.length);if($('caPracticeCount'))$('caPracticeCount').textContent=String(all.length);
+    $('caList').innerHTML=shown.length?shown.map((q,i)=>`<article class="card ca-card"><div class="eyebrow">${esc(category(q))} / CURRENT AFFAIRS</div><h3>${esc(q.question)}</h3><div class="ca-meta">${esc(q.source||'Source not specified')} · Expires ${esc(new Date(q.expiresAt||(Date.parse(q.createdAt||q.verifiedAt||q.publishedAt)+EXPIRE_MS)).toLocaleString())}</div><div class="ca-options">${q.options.map((o,j)=>`<button class="ca-option" data-ca="${i}" data-answer="${j}">${String.fromCharCode(65+j)}. ${esc(o)}</button>`).join('')}</div><div class="ca-explanation" id="caExplain${i}"><b>Correct answer:</b> ${esc(q.options[q.answer])}<br>${esc(q.explanation||'')}${q.sourceUrl?`<p><a class="ca-source" href="${esc(q.sourceUrl)}" target="_blank" rel="noopener noreferrer">Open source article ↗</a></p>`:''}</div></article>`).join(''):'<div class="card ca-card"><h3>No active questions</h3><p class="muted">No active questions match this category. Add one from Add Question or refresh the online feed.</p></div>';
+    $('caList').querySelectorAll('[data-ca]').forEach(btn=>btn.addEventListener('click',()=>{const idx=Number(btn.dataset.ca),chosen=Number(btn.dataset.answer),q=shown[idx],card=btn.closest('.ca-card');card.querySelectorAll('.ca-option').forEach((b,j)=>{b.disabled=true;if(j===q.answer)b.classList.add('correct');if(j===chosen&&chosen!==q.answer)b.classList.add('wrong');});card.querySelector('.ca-explanation').classList.add('open');}));
   }
-  function category(q) {
-    const s = `${q.category || ''} ${q.question || ''}`.toLowerCase();
-    if (/bangladesh|dhaka|bangladeshi|বাংলাদেশ/.test(s)) return 'Bangladesh';
-    if (/sport|football|cricket|olympic|tennis/.test(s)) return 'Sports';
-    if (/science|technology|ai |artificial intelligence|space|satellite/.test(s)) return 'Science & Technology';
-    if (/econom|trade|bank|inflation|gdp|market/.test(s)) return 'Economy';
-    if (/international|united nations|un |world|global|summit|president|prime minister/.test(s)) return 'International';
-    return 'General';
+  function renderPractice(){const host=$('caPractice');if(!host)return;if(!practiceQuestions.length){host.hidden=true;return;}host.hidden=false;if(practiceSubmitted){const answers=[...host.querySelectorAll('input[type=radio]:checked')];let score=0;practiceQuestions.forEach((q,i)=>{const a=answers.find(x=>x.name==='ca-practice-'+i);if(a&&Number(a.value)===q.answer)score++;});host.innerHTML=`<div class="roadmap-callout"><b>Practice complete: ${score} / ${practiceQuestions.length}</b> (${Math.round(score/practiceQuestions.length*100)}%). Review the answers below and retry with a new set.</div>`+practiceQuestions.map((q,i)=>`<article class="card ca-card"><h3>${i+1}. ${esc(q.question)}</h3><p><b>Correct answer:</b> ${String.fromCharCode(65+q.answer)}. ${esc(q.options[q.answer])}</p><p class="muted">${esc(q.explanation||'')}</p></article>`).join('')+`<button class="btn primary" id="caRetryPractice" type="button">Try another practice test</button>`;$('caRetryPractice')?.addEventListener('click',startPractice);return;}
+    host.innerHTML='<form id="caPracticeForm">'+practiceQuestions.map((q,i)=>`<article class="card ca-card"><h3>${i+1}. ${esc(q.question)}</h3><div class="ca-options">${q.options.map((o,j)=>`<label class="ca-option"><input type="radio" name="ca-practice-${i}" value="${j}" required> ${String.fromCharCode(65+j)}. ${esc(o)}</label>`).join('')}</div></article>`).join('')+'<button class="btn primary" type="submit">Submit Current Affairs Test</button></form>';
+    $('caPracticeForm')?.addEventListener('submit',e=>{e.preventDefault();practiceSubmitted=true;const form=e.currentTarget;let score=0;practiceQuestions.forEach((q,i)=>{const selected=form.querySelector(`input[name="ca-practice-${i}"]:checked`);if(selected&&Number(selected.value)===q.answer)score++;});$('caPracticeStatus').textContent=`Test submitted: ${score}/${practiceQuestions.length} correct.`;renderPractice();});
   }
-  function render() {
-    const filter = $('caTopic')?.value || 'ALL';
-    const shown = items.filter(q => filter === 'ALL' || category(q) === filter);
-    $('caTotal').textContent = String(shown.length);
-    $('caList').innerHTML = shown.length ? shown.map((q,i) => `<article class="card ca-card"><div class="eyebrow">${esc(category(q))} / DAILY BRIEF</div><h3>${esc(q.question)}</h3><div class="ca-meta">${esc(q.source || 'Source not specified')} · Expires ${esc(new Date(q.expiresAt || (Date.parse(q.createdAt || q.verifiedAt || q.publishedAt) + EXPIRE_MS)).toLocaleString())}</div><div class="ca-options">${q.options.map((o,j)=>`<button class="ca-option" data-ca="${i}" data-answer="${j}">${String.fromCharCode(65+j)}. ${esc(o)}</button>`).join('')}</div><div class="ca-explanation" id="caExplain${i}"><b>Correct answer:</b> ${esc(q.options[q.answer])}<br>${esc(q.explanation)}${q.sourceUrl ? `<p><a class="ca-source" href="${esc(q.sourceUrl)}" target="_blank" rel="noopener noreferrer">Open source article ↗</a></p>` : ''}</div></article>`).join('') : '<div class="card ca-card"><h3>No active questions</h3><p class="muted">No current questions match this category. Refresh later when the online feed has new items.</p></div>';
-    $('caList').querySelectorAll('[data-ca]').forEach(btn => btn.addEventListener('click', () => {
-      const idx = Number(btn.dataset.ca), chosen = Number(btn.dataset.answer), q = shown[idx];
-      const card = btn.closest('.ca-card');
-      card.querySelectorAll('.ca-option').forEach((b,j) => { b.disabled = true; if(j === q.answer) b.classList.add('correct'); if(j === chosen && chosen !== q.answer) b.classList.add('wrong'); });
-      card.querySelector('.ca-explanation').classList.add('open');
-    }));
-  }
-  async function refresh() {
-    $('caStatus').textContent = navigator.onLine ? 'Connecting…' : 'Offline';
-    $('caNotice').innerHTML = '<span class="note-icon">i</span><p>Fetching online Current Affairs. This does not change the offline question bank.</p>';
-    try {
-      const response = await fetch('./current-affairs.json?ts=' + Date.now(), {cache:'no-store'});
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      const data = await response.json();
-      items = (Array.isArray(data.questions) ? data.questions : []).filter(q => q && q.question && Array.isArray(q.options) && q.options.length === 4 && Number.isInteger(q.answer) && q.answer >= 0 && q.answer < 4 && alive(q));
-      $('caUpdated').textContent = data.updatedAt ? new Date(data.updatedAt).toLocaleString() : 'Not reported';
-      $('caStatus').textContent = 'ONLINE';
-      $('caNotice').innerHTML = `<span class="note-icon">✓</span><p>Loaded ${items.length} unexpired question(s). Questions expire after 72 hours. AI verification can still make mistakes; use the source link to confirm important facts.</p>`;
-      render();
-    } catch (error) {
-      items = [];
-      $('caUpdated').textContent = 'Unavailable'; $('caStatus').textContent = navigator.onLine ? 'Feed error' : 'Offline';
-      $('caNotice').innerHTML = '<span class="note-icon">i</span><p>Current Affairs is online-only and could not load. Your offline IQ bank and local AI remain unaffected. Check hosting path and current-affairs.json.</p>';
-      render(); console.warn('Current Affairs unavailable:', error);
-    }
-  }
-  document.addEventListener('DOMContentLoaded', () => {
-    $('caRefresh')?.addEventListener('click', refresh);
-    $('caTopic')?.addEventListener('change', render);
-    refresh();
+  function startPractice(){const all=combined().filter(q=>($('caTopic')?.value||'ALL')==='ALL'||category(q)=== $('caTopic').value);if(!all.length){$('caPracticeStatus').textContent='No active questions available. Add Current Affairs questions first or refresh the feed.';return;}const n=$('caPracticeSize')?.value||'10';practiceQuestions=all.sort(()=>Math.random()-.5).slice(0,n==='ALL'?all.length:Number(n));practiceSubmitted=false;$('caPracticeStatus').textContent=`Practice test started with ${practiceQuestions.length} question(s).`;renderPractice();$('caPractice')?.scrollIntoView({behavior:'smooth',block:'start'});}
+  async function refresh(){if($('caStatus'))$('caStatus').textContent=navigator.onLine?'Connecting…':'Offline';if($('caNotice'))$('caNotice').innerHTML='<span class="note-icon">i</span><p>Loading current questions. Manually added questions stay local to this browser and expire automatically.</p>';try{const response=await fetch('./current-affairs.json?ts='+Date.now(),{cache:'no-store'});if(!response.ok)throw new Error(`HTTP ${response.status}`);const data=await response.json();items=(Array.isArray(data.questions)?data.questions:[]).filter(q=>q&&q.question&&Array.isArray(q.options)&&q.options.length===4&&Number.isInteger(q.answer)&&q.answer>=0&&q.answer<4&&alive(q));if($('caUpdated'))$('caUpdated').textContent=data.updatedAt?new Date(data.updatedAt).toLocaleString():'Not reported';if($('caStatus'))$('caStatus').textContent='ONLINE';if($('caNotice'))$('caNotice').innerHTML=`<span class="note-icon">✓</span><p>Loaded ${items.length} unexpired feed question(s), plus any active questions you added manually. Manually added questions are removed after their selected expiry period.</p>`;}catch(error){items=[];if($('caUpdated'))$('caUpdated').textContent='Unavailable';if($('caStatus'))$('caStatus').textContent=navigator.onLine?'Feed error':'Offline';if($('caNotice'))$('caNotice').innerHTML='<span class="note-icon">i</span><p>The online feed is unavailable. Your manually added Current Affairs questions remain available in this browser; normal Question Bank practice is separate.</p>';console.warn('Current Affairs unavailable:',error);}render();}
+  document.addEventListener('DOMContentLoaded',()=>{
+    const landing=$('caLanding'),questionView=$('caQuestionsView');
+    const showQuestionCentre=()=>{if(landing)landing.hidden=true;if(questionView)questionView.hidden=false;window.scrollTo({top:0,behavior:'smooth'});};
+    const showCaLanding=()=>{if(questionView)questionView.hidden=true;if(landing)landing.hidden=false;window.scrollTo({top:0,behavior:'smooth'});};
+    $('openCaQuestions')?.addEventListener('click',showQuestionCentre);$('caBackButton')?.addEventListener('click',showCaLanding);
+    const refreshLandingCount=()=>{const count=combined().length;const label=$('caLandingCount');if(label)label.textContent=`${count} active question${count===1?'':'s'} · Open question centre`;};
+    window.addEventListener('t7:current-affairs-updated',refreshLandingCount);setTimeout(refreshLandingCount,0);
+    $('caRefresh')?.addEventListener('click',refresh);$('caTopic')?.addEventListener('change',()=>{render();if(practiceQuestions.length){practiceQuestions=[];practiceSubmitted=false;$('caPractice').hidden=true;}});$('caStartPractice')?.addEventListener('click',startPractice);window.addEventListener('t7:current-affairs-updated',render);
+    const gate=$('caManualKeyGate'),form=$('caManualForm'),ACCESS_KEY='t7EditorUnlocked',EDITOR_KEY='22May+1Sept';const syncGate=()=>{const ok=sessionStorage.getItem(ACCESS_KEY)==='yes';if(gate)gate.hidden=ok;if(form)form.hidden=!ok;};
+    $('unlockCaEditor')?.addEventListener('click',()=>{const val=$('caEditorKey')?.value||'';if(val===EDITOR_KEY){sessionStorage.setItem(ACCESS_KEY,'yes');$('caKeyStatus').textContent='Manual editor unlocked for this tab session.';$('caEditorKey').value='';syncGate();}else $('caKeyStatus').textContent='Incorrect key. No question was added.';});$('caEditorKey')?.addEventListener('keydown',e=>{if(e.key==='Enter')$('unlockCaEditor')?.click()});
+    form?.addEventListener('submit',e=>{e.preventDefault();if(sessionStorage.getItem(ACCESS_KEY)!=='yes')return;const question=$('caManualQuestion').value.trim(),options=[0,1,2,3].map(i=>$('caManualOpt'+i).value.trim()),answer=Number($('caManualAnswer').value),explanation=$('caManualExplanation').value.trim(),source=$('caManualSource').value.trim(),sourceUrl=$('caManualUrl').value.trim(),cat=$('caManualCategory').value;if(!question||options.some(x=>!x)||!Number.isInteger(answer)||answer<0||answer>3||!explanation||!source){$('caManualStatus').textContent='Complete every required field and select the correct answer.';return;}if(sourceUrl&&!/^https?:\/\//i.test(sourceUrl)){$('caManualStatus').textContent='Source URL must start with http:// or https://';return;}const all=[...items,...pruneManual()];if(all.some(q=>String(q.question||'').trim().toLowerCase()===question.toLowerCase())){if(!confirm('A question with the same wording already exists. Add it anyway?'))return;}const now=Date.now(),row={id:'CA-MANUAL-'+now.toString(36).toUpperCase(),category:cat,question,options,answer,explanation,source,sourceUrl,createdAt:new Date(now).toISOString(),expiresAt:new Date(now+7*86400000).toISOString(),manual:true};const saved=pruneManual();saved.push(row);writeManual(saved);form.reset();$('caManualStatus').textContent='Saved locally for 7 days. It is now included in Current Affairs practice.';render();});
+    $('exportManualCa')?.addEventListener('click',()=>{const saved=pruneManual();if(!saved.length){$('caManualStatus').textContent='No active manually added questions to export yet.';return;}const blob=new Blob([JSON.stringify({app:'T7 Current Affairs Manual Questions',exportedAt:new Date().toISOString(),questions:saved},null,2)],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='t7-manual-current-affairs.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);$('caManualStatus').textContent='Active manual questions exported as JSON backup.';});syncGate();refresh();
   });
 })();
