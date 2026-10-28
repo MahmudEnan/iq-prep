@@ -1,5 +1,78 @@
 {
-  "updatedAt": "2026-10-27T22:19:06.543Z",
-  "total": 0,
-  "questions": []
+  "updatedAt": "2026-10-28T05:48:45.831Z",
+  "total": 4,
+  "questions": [
+    {
+      "id": "ca-7a00abb667fd040580ee",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Economic emancipation of grassroots women govt’s priority: Mahdi Amin Bangladesh Sangbad Sangstha (BSS)",
+      "options": [
+        "School assembly news headlines today- October 28: Top national, sports and world news curated for you - India Today",
+        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica",
+        "What’s happening this week in economics? - Deloitte",
+        "Economic emancipation of grassroots women govt’s priority: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12WGY2Z00wRGFYYmZxUkVqcHFiNjQ3VGM4RzVOdFluREQ3WWczSi10T2NCN1oxZHlEVmU4N2VRYmVZN1JVVXMtejFuYw?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-10-28T05:48:45.831Z",
+      "verifiedAt": "2026-10-28T05:48:45.831Z",
+      "expiresAt": "2026-10-31T05:48:45.831Z"
+    },
+    {
+      "id": "ca-9cc5f784b18c649be748",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- October 28: Top national, sports and world news curated for you India Today",
+      "options": [
+        "Economic emancipation of grassroots women govt’s priority: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)",
+        "School assembly news headlines today- October 28: Top national, sports and world news curated for you - India Today",
+        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica",
+        "What’s happening this week in economics? - Deloitte"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbTM2Y3IwLXpFdzhOOHk4cG9SU05kaFkyRG9qbWh0dXJsMzZzTy02S2szTjlrS21PbktESDZoRFNyX205cW5Sck1yOWR5N0J3MEFiZ0FZczBaZDI4dlg4bHFtUWVVeUViSzVOa0pkOFNaR0VGZ2xaM21NVlNCRzQzRlB3ZVVFV0xKVmI3R09lQjZucGYzeEhaaEJPdjhqOXgxVllub25EUTlsSnEzdW5aWWZMU056WGdsZEQxNW9POS0xNkNocU1CWkJYdEROZFN1enpLY2NzVDQyREtsVXV6S3l5eUg2dw?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-10-28T05:48:45.831Z",
+      "verifiedAt": "2026-10-28T05:48:45.831Z",
+      "expiresAt": "2026-10-31T05:48:45.831Z"
+    },
+    {
+      "id": "ca-9fdc713ce19596f45124",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Major Events of 2026 | Pop Culture, Current Events, News, & Timeline Britannica",
+      "options": [
+        "What’s happening this week in economics? - Deloitte",
+        "Economic emancipation of grassroots women govt’s priority: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)",
+        "School assembly news headlines today- October 28: Top national, sports and world news curated for you - India Today",
+        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMVZwel9YMV84Q0U3RW1idDZoejFWUGI5MHM4aGVMWTRMUEthOFJvaEhLSmt2bUNkNkREbFFkVVNSV3FEZE1PN3huaWZ3cWR0dll0VjJxRmZNbGJOVVV5Qk5vMA?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-10-28T05:48:45.831Z",
+      "verifiedAt": "2026-10-28T05:48:45.831Z",
+      "expiresAt": "2026-10-31T05:48:45.831Z"
+    },
+    {
+      "id": "ca-616904d6854b8d48d4cf",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: What’s happening this week in economics? Deloitte",
+      "options": [
+        "Economic emancipation of grassroots women govt’s priority: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)",
+        "School assembly news headlines today- October 28: Top national, sports and world news curated for you - India Today",
+        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica",
+        "What’s happening this week in economics? - Deloitte"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-10-28T05:48:45.831Z",
+      "verifiedAt": "2026-10-28T05:48:45.831Z",
+      "expiresAt": "2026-10-31T05:48:45.831Z"
+    }
+  ]
 }
