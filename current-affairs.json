@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-10-29T05:53:44.829Z",
-  "total": 4,
+  "updatedAt": "2026-10-29T13:09:20.854Z",
+  "total": 7,
   "questions": [
+    {
+      "id": "ca-00a982fc62c63dfca08d",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Bangladesh, Spain seek stronger trade, investment, migration cooperation Bangladesh Sangbad Sangstha (BSS)",
+      "options": [
+        "Tarique calls on Japanese businesses to invest in Bangladesh - bdnews24.com",
+        "Economic emancipation of grassroots women govt’s priority: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)",
+        "School assembly news headlines today- October 29: Top national, sports and world news curated for you - India Today",
+        "Bangladesh, Spain seek stronger trade, investment, migration cooperation - Bangladesh Sangbad Sangstha (BSS)"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lRU9VQnpQVW1vQlJ0NlFHaGRXUUNjWnY0MHpIZlYxQ1dQS2xvUjViOEtqOHJUbTFWSUtsZTE2WEJMRFFLSlFUSFNuaw?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-10-29T13:09:20.854Z",
+      "verifiedAt": "2026-10-29T13:09:20.854Z",
+      "expiresAt": "2026-11-01T13:09:20.854Z"
+    },
+    {
+      "id": "ca-444d581f200531f2e844",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- October 29: Top national, sports and world news curated for you India Today",
+      "options": [
+        "Economic emancipation of grassroots women govt’s priority: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)",
+        "Tarique calls on Japanese businesses to invest in Bangladesh - bdnews24.com",
+        "School assembly news headlines today- October 29: Top national, sports and world news curated for you - India Today",
+        "Bangladesh, Spain seek stronger trade, investment, migration cooperation - Bangladesh Sangbad Sangstha (BSS)"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdm1VNnFQZUZhNy15bE11dmNpd01FR2lXTzRYa0NQRkxpTzBXbGwyNHpkQlJGeEtkanNYdTBfT19DWHduUGxEei1pQTBtaGVRVWxrMzJZNWdqeTlkTFVCUmRhOWk5RFZMemViVmxXVWFIZDRWbE5CMm9QMjhtQkc0VTJxTGVrSzJZLXVvN2FkZElHMEF6UTY3a0tpU1NkdG1ITkRMTmFJeHhGem9hT2F3VktWNXZydVVtVHJOVElFYndBSnlaalJqS3dvNFpoWm5GNnMxX1cxcVRMeGJWTmp5VFhQeDZydw?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-10-29T13:09:20.854Z",
+      "verifiedAt": "2026-10-29T13:09:20.854Z",
+      "expiresAt": "2026-11-01T13:09:20.854Z"
+    },
+    {
+      "id": "ca-0c26e76d9f6c741cc8f6",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Tarique calls on Japanese businesses to invest in Bangladesh bdnews24.com",
+      "options": [
+        "Economic emancipation of grassroots women govt’s priority: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)",
+        "School assembly news headlines today- October 29: Top national, sports and world news curated for you - India Today",
+        "Tarique calls on Japanese businesses to invest in Bangladesh - bdnews24.com",
+        "Bangladesh, Spain seek stronger trade, investment, migration cooperation - Bangladesh Sangbad Sangstha (BSS)"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jbzk0bWM0aC1GOHQ2OHB2ajJWS09JOThiZ29JRDUtYW5lMGV2ckY0dm04eXAyNENlTVdMNHJLakthbWRDemtUX045ZjlUdDE2T2IyQQ?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-10-29T13:09:20.854Z",
+      "verifiedAt": "2026-10-29T13:09:20.854Z",
+      "expiresAt": "2026-11-01T13:09:20.854Z"
+    },
     {
       "id": "ca-7a00abb667fd040580ee",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Economic emancipation of grassroots women govt’s priority: Mahdi Amin Bangladesh Sangbad Sangstha (BSS)",
