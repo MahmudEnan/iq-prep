@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-10-29T13:09:20.854Z",
-  "total": 7,
+  "updatedAt": "2026-10-29T22:48:29.895Z",
+  "total": 9,
   "questions": [
+    {
+      "id": "ca-fa6bd8f1d8a76b2ba32b",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Argentine Naval Prefecture Participates in 5th World Coast Guard Summit Human Resources Meeting DataPortuaria",
+      "options": [
+        "School assembly news headlines today- October 30: Top national, sports and world news curated for you - India Today",
+        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica",
+        "Tarique calls on Japanese businesses to invest in Bangladesh - bdnews24.com",
+        "Argentine Naval Prefecture Participates in 5th World Coast Guard Summit Human Resources Meeting - DataPortuaria"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMDRka29Ucld4RHlvSnlCTy12VEhvdmQ0NldwMzNIQWxRVHdKUkk5U3pObzJDS3htekhEa3V5b0VZTHJGZXVRT1pVRmlBano0NFRhNUdmM3c1SE02QWFUV2hFTWhrelhidGdZRnlqaWJFdzY1XzFOa09EY293R2NfZWJBdjJ6akFsMnNwY2NPcnlXUHVXcmo0Rlo5WEN5WVRjd0ZEdHlPazNDN2s2dng1SDNwTXVGUEx6Vl8xYmw3NzRGNGdOcE8yZGlYeUZvbjYyQVFJNURvQ1FVaTJYQkxaeFVaa3lqOHlncTBpclBn?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-10-29T22:48:29.895Z",
+      "verifiedAt": "2026-10-29T22:48:29.895Z",
+      "expiresAt": "2026-11-01T22:48:29.895Z"
+    },
+    {
+      "id": "ca-4a092a9c003a61daa0aa",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- October 30: Top national, sports and world news curated for you India Today",
+      "options": [
+        "Tarique calls on Japanese businesses to invest in Bangladesh - bdnews24.com",
+        "Bangladesh, Spain seek stronger trade, investment, migration cooperation - Bangladesh Sangbad Sangstha (BSS)",
+        "School assembly news headlines today- October 30: Top national, sports and world news curated for you - India Today",
+        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT20tNjhGd0UySlB4U2NjUW5xMmZrcnNuaHROamZpYmVVY2ZxMWN1MExpaEVvQ1RjRnJzclBnNXB1YzR0NV9mdHpLZ1dzN0NzSEVDN3l4MEF4Zi1sczBRbUQxOUpOS21rWTB3U0psYUQ5VG1xcHEyZHp5c1d5V0pnNU95RTdlX29BZmJIYXZUM3VIMTdqVEVxRWlzeXZDZHFhSUZyYVpmWXptc01oWmFJb0p2QWMtUnA4TlFoYkN0SnVDVVpzRnhqUnZmN0RYdmtmZjBmMFVLTndLajNwakhGMU5FSm1Hdw?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-10-29T22:48:29.895Z",
+      "verifiedAt": "2026-10-29T22:48:29.895Z",
+      "expiresAt": "2026-11-01T22:48:29.895Z"
+    },
     {
       "id": "ca-00a982fc62c63dfca08d",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Bangladesh, Spain seek stronger trade, investment, migration cooperation Bangladesh Sangbad Sangstha (BSS)",
