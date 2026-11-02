@@ -1,42 +1,78 @@
 {
-  "updatedAt": "2026-11-01T22:06:23.818Z",
-  "total": 2,
+  "updatedAt": "2026-11-02T06:15:42.882Z",
+  "total": 4,
   "questions": [
     {
-      "id": "ca-fa6bd8f1d8a76b2ba32b",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Argentine Naval Prefecture Participates in 5th World Coast Guard Summit Human Resources Meeting DataPortuaria",
+      "id": "ca-dc8d3067d885789e946c",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 2: Top national, sports and world news curated for you India Today",
       "options": [
-        "School assembly news headlines today- October 30: Top national, sports and world news curated for you - India Today",
-        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica",
-        "Tarique calls on Japanese businesses to invest in Bangladesh - bdnews24.com",
-        "Argentine Naval Prefecture Participates in 5th World Coast Guard Summit Human Resources Meeting - DataPortuaria"
+        "School assembly news headlines today- November 2: Top national, sports and world news curated for you - India Today",
+        "Current Affairs 2026 (October Month): Latest Daily, Weekly & Monthly Updates - Careers360",
+        "Top 10 Current Affairs October 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
+        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal"
+      ],
+      "answer": 0,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYXRwRFgta2xRNHVzTTdTM1Z2SEZQTTcxUDBZSmpaWDg0alFUbHJaSDEzeXJ0VTc4LVJRMzd2Tzhfb2pQYmRqSHdWZTlkV2pUX0JaMWV1dEdTNzQxRGF0cXRWWm9mOVBhbC1HOFExT1RzY1AwYXg1dC04VHJ6dEh2NnNlalhuT3NXTHRzWkttU2lIMVpZdXQ1UDJUcEpyWkdEZnpJSXl1Wk9VSjcxeWgyRTgtRlBCcVlmNVl3TFIzeWdrMTA0RGQ5cjUxUzFuSElvX3VPODA0NVlWQjRqWkNyUTZSU3RkQQ?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-02T06:15:42.882Z",
+      "verifiedAt": "2026-11-02T06:15:42.882Z",
+      "expiresAt": "2026-11-05T06:15:42.882Z"
+    },
+    {
+      "id": "ca-d778a12a1d6ea2a90f8d",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Top 10 Current Affairs October 2026 for UPSC, SSC, Banking & Other Competitive Exams Finology Legal",
+      "options": [
+        "Current Affairs 2026 (October Month): Latest Daily, Weekly & Monthly Updates - Careers360",
+        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
+        "School assembly news headlines today- November 2: Top national, sports and world news curated for you - India Today",
+        "Top 10 Current Affairs October 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal"
       ],
       "answer": 3,
       "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
       "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMDRka29Ucld4RHlvSnlCTy12VEhvdmQ0NldwMzNIQWxRVHdKUkk5U3pObzJDS3htekhEa3V5b0VZTHJGZXVRT1pVRmlBano0NFRhNUdmM3c1SE02QWFUV2hFTWhrelhidGdZRnlqaWJFdzY1XzFOa09EY293R2NfZWJBdjJ6akFsMnNwY2NPcnlXUHVXcmo0Rlo5WEN5WVRjd0ZEdHlPazNDN2s2dng1SDNwTXVGUEx6Vl8xYmw3NzRGNGdOcE8yZGlYeUZvbjYyQVFJNURvQ1FVaTJYQkxaeFVaa3lqOHlncTBpclBn?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2dUowTlBndU94SUtXUDhzaVJRSjdKOUFqYjlVbFUwdUhKb01TY3Nld2RmWU1QVjl4UTFvYXpWZG1xcUdHUEZkSU1PUFBja0kxQ2ZXWU9Uc20xY29fSTBZQWJfenlsbU5zdHNFaWU3N1U5Z3FRUWxVZ2Q3UTMzdw?oc=5",
       "category": "Current Affairs",
-      "createdAt": "2026-10-29T22:48:29.895Z",
-      "verifiedAt": "2026-10-29T22:48:29.895Z",
-      "expiresAt": "2026-11-01T22:48:29.895Z"
+      "createdAt": "2026-11-02T06:15:42.882Z",
+      "verifiedAt": "2026-11-02T06:15:42.882Z",
+      "expiresAt": "2026-11-05T06:15:42.882Z"
     },
     {
-      "id": "ca-4a092a9c003a61daa0aa",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- October 30: Top national, sports and world news curated for you India Today",
+      "id": "ca-207accb535cccc76a996",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams Finology Legal",
       "options": [
-        "Tarique calls on Japanese businesses to invest in Bangladesh - bdnews24.com",
-        "Bangladesh, Spain seek stronger trade, investment, migration cooperation - Bangladesh Sangbad Sangstha (BSS)",
-        "School assembly news headlines today- October 30: Top national, sports and world news curated for you - India Today",
-        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica"
+        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
+        "Current Affairs 2026 (October Month): Latest Daily, Weekly & Monthly Updates - Careers360",
+        "Top 10 Current Affairs October 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
+        "School assembly news headlines today- November 2: Top national, sports and world news curated for you - India Today"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
       "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT20tNjhGd0UySlB4U2NjUW5xMmZrcnNuaHROamZpYmVVY2ZxMWN1MExpaEVvQ1RjRnJzclBnNXB1YzR0NV9mdHpLZ1dzN0NzSEVDN3l4MEF4Zi1sczBRbUQxOUpOS21rWTB3U0psYUQ5VG1xcHEyZHp5c1d5V0pnNU95RTdlX29BZmJIYXZUM3VIMTdqVEVxRWlzeXZDZHFhSUZyYVpmWXptc01oWmFJb0p2QWMtUnA4TlFoYkN0SnVDVVpzRnhqUnZmN0RYdmtmZjBmMFVLTndLajNwakhGMU5FSm1Hdw?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmg3dExScXVZb2hUS3hzaE1MUlFqckVSNzdCaEYyc1FwN0F3S2ZXbHJwYUZlc3piRzJ3SHB6cjEzTHR3YTloNGtnQ01rQmxiS1NwZmpiNEQ5ZHZ5NV9FdVU5N2tlUnFDTkVyclh3Y3poNHhBdXVDMnFabDE5d3RGYg?oc=5",
       "category": "Current Affairs",
-      "createdAt": "2026-10-29T22:48:29.895Z",
-      "verifiedAt": "2026-10-29T22:48:29.895Z",
-      "expiresAt": "2026-11-01T22:48:29.895Z"
+      "createdAt": "2026-11-02T06:15:42.882Z",
+      "verifiedAt": "2026-11-02T06:15:42.882Z",
+      "expiresAt": "2026-11-05T06:15:42.882Z"
+    },
+    {
+      "id": "ca-1c67cab8f626b2f67216",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Current Affairs 2026 (October Month): Latest Daily, Weekly & Monthly Updates Careers360",
+      "options": [
+        "Top 10 Current Affairs October 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
+        "Current Affairs 2026 (October Month): Latest Daily, Weekly & Monthly Updates - Careers360",
+        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
+        "School assembly news headlines today- November 2: Top national, sports and world news curated for you - India Today"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE92U2JWUGdMd1ZxLUZmMGluXzJqX3FKb2Q1OEVEVlllWXpraW91enkwaVFwcU5ob0pCU2lGZnpnaE5xRy1EeVkxWWVkNGJxeXJZbnJMcHdjQU1qR0xTZ3pBcXhpWWVQMUNoSThzRFhrMTU3UQ?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-02T06:15:42.882Z",
+      "verifiedAt": "2026-11-02T06:15:42.882Z",
+      "expiresAt": "2026-11-05T06:15:42.882Z"
     }
   ]
 }
