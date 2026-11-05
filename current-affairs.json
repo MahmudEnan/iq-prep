@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-11-05T06:55:04.618Z",
-  "total": 6,
+  "updatedAt": "2026-11-05T20:00:23.618Z",
+  "total": 9,
   "questions": [
+    {
+      "id": "ca-420c12e29601904e16e8",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: National AI ecosystem needed to harness country's potential: Speakers Bangladesh Sangbad Sangstha (BSS)",
+      "options": [
+        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
+        "USS Warrior Arrives in Chattogram for CARAT Bangladesh 2026 - GK Today",
+        "National AI ecosystem needed to harness country's potential: Speakers - Bangladesh Sangbad Sangstha (BSS)",
+        "Industry-academia-government collaboration vital for knowledge-based economy: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93VGRVcmlnXzI1eEJZMGZjMGxydVdPRjd2M0paX3FaamxLY0daZXktZWdEZnVUVEdCUDR6b3ZPOEcycnA4OHJaWnpDM0NhUDYz?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-05T20:00:23.618Z",
+      "verifiedAt": "2026-11-05T20:00:23.618Z",
+      "expiresAt": "2026-11-08T20:00:23.618Z"
+    },
+    {
+      "id": "ca-850a63ecfcaf8b694614",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Industry-academia-government collaboration vital for knowledge-based economy: Mahdi Amin Bangladesh Sangbad Sangstha (BSS)",
+      "options": [
+        "India-Bangladesh Ganges Water Treaty: Moving Beyond Water Sharing Towards Ecological Conservation - Sanskriti IAS",
+        "Industry-academia-government collaboration vital for knowledge-based economy: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)",
+        "National AI ecosystem needed to harness country's potential: Speakers - Bangladesh Sangbad Sangstha (BSS)",
+        "USS Warrior Arrives in Chattogram for CARAT Bangladesh 2026 - GK Today"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PNWJranNYRXpzTjA3SXFzY2N2SnVkZ1R6RmxnQVhPNDB0MW1lOTg3RHpsTS01b3pZX0lMdHFwOVVjNXVsTUJtcHl1QXBKeEFa?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-05T20:00:23.618Z",
+      "verifiedAt": "2026-11-05T20:00:23.618Z",
+      "expiresAt": "2026-11-08T20:00:23.618Z"
+    },
+    {
+      "id": "ca-1985562cec91dfc6a96b",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: USS Warrior Arrives in Chattogram for CARAT Bangladesh 2026 GK Today",
+      "options": [
+        "India-Bangladesh Ganges Water Treaty: Moving Beyond Water Sharing Towards Ecological Conservation - Sanskriti IAS",
+        "USS Warrior Arrives in Chattogram for CARAT Bangladesh 2026 - GK Today",
+        "Industry-academia-government collaboration vital for knowledge-based economy: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)",
+        "Reports and Indices in News 2025-2026, National and International List - Vajiram & Ravi"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRFlPbW4wMk5abHFOUFlOekZaMWRUZ284bVZwMkw4UzBCYWlZMDI0X1RIUFFub2pUMkt4MUhYeUxKZlIxWTI2alNqTW5qdVdmckc4a1ZtbTRpTWQxSEsyUVQxeE5MU09idlVaOHhqWGs2Vmh5Vmxrc0Nmb3Fsa2d1TFF1NzVHVkd6eFRZ?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-05T20:00:23.618Z",
+      "verifiedAt": "2026-11-05T20:00:23.618Z",
+      "expiresAt": "2026-11-08T20:00:23.618Z"
+    },
     {
       "id": "ca-29f4f89a39ed54828c18",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: First-ever AI business summit begins tomorrow The Daily Star",
