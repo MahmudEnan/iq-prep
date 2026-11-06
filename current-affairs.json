@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T20:00:23.618Z",
-  "total": 9,
+  "updatedAt": "2026-11-06T06:54:54.408Z",
+  "total": 8,
   "questions": [
     {
       "id": "ca-420c12e29601904e16e8",
@@ -145,24 +145,6 @@
       "createdAt": "2026-11-04T19:49:41.210Z",
       "verifiedAt": "2026-11-04T19:49:41.210Z",
       "expiresAt": "2026-11-07T19:49:41.210Z"
-    },
-    {
-      "id": "ca-04e98d74f80e3a6efd16",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Prefectura Officer Graduates from World Maritime University and Receives International Award Data Portuaria",
-      "options": [
-        "Top 10 Current Affairs October 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
-        "Current Affairs 2026 (October Month): Latest Daily, Weekly & Monthly Updates - Careers360",
-        "Prefectura Officer Graduates from World Maritime University and Receives International Award - Data Portuaria",
-        "School assembly news headlines today- November 2: Top national, sports and world news curated for you - India Today"
-      ],
-      "answer": 2,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUnRSZ19UYlVjcE5xLVljNERYakRtWkcxT3ZUTkRUZncySjZfUkpZcFp5c3FmUEZoRGxHbXpwbkVCVEd3N3JfMUd5LUlPbVdaRUlGblpHenNIUGh1bUdheDV2R1pETmJtakdJOVNvc1g3Rkt1RC1fcnZvM3o1eDBvQXNxZHRycU5JRVNwWUhBVFRZc2tUd1pxV3FxYlVrclBFclM0WTFiTWFiMUlQXzJ2cFRzMHZtb2g3VnpoSWJLTUNOZ3ZkSXhMaWN6R2FKZDlNMlRNMDJkbWM2NlhWek5wbHp2dDdwT2Y5aXc?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-03T01:02:14.456Z",
-      "verifiedAt": "2026-11-03T01:02:14.456Z",
-      "expiresAt": "2026-11-06T01:02:14.456Z"
     }
   ]
 }
