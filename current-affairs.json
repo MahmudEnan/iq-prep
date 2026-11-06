@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-06T06:54:54.408Z",
-  "total": 8,
+  "updatedAt": "2026-11-06T19:27:49.815Z",
+  "total": 9,
   "questions": [
+    {
+      "id": "ca-5f8909e3953925366ec2",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: BD-Russia IGC meeting held in Dhaka Bangladesh Sangbad Sangstha (BSS)",
+      "options": [
+        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
+        "What’s happening this week in economics? - Deloitte",
+        "BD-Russia IGC meeting held in Dhaka - Bangladesh Sangbad Sangstha (BSS)",
+        "USS Warrior Arrives in Chattogram for CARAT Bangladesh 2026 - GK Today"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQOGpWQ2dfR1FvYkNubWhOWDJxOU9fTC1rRHFyNC0ydVJnQTJwNFAtLVgyOHdYa2JrVkxTM21leDF6eFR5Um5QMU42TTRpZEJO?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-06T19:27:49.815Z",
+      "verifiedAt": "2026-11-06T19:27:49.815Z",
+      "expiresAt": "2026-11-09T19:27:49.815Z"
+    },
     {
       "id": "ca-420c12e29601904e16e8",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: National AI ecosystem needed to harness country's potential: Speakers Bangladesh Sangbad Sangstha (BSS)",
