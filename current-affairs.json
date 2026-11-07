@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-11-07T13:10:16.289Z",
+  "updatedAt": "2026-11-07T21:55:14.280Z",
   "total": 10,
   "questions": [
+    {
+      "id": "ca-565af86fabd8f0fc2011",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: India-Bangladesh Ganges Water Treaty: Moving Beyond Water Sharing Towards Ecological Conservation Sanskriti IAS",
+      "options": [
+        "India-Bangladesh Ganges Water Treaty: Moving Beyond Water Sharing Towards Ecological Conservation - Sanskriti IAS",
+        "Reports and Indices in News 2025-2026, National and International List - Vajiram & Ravi",
+        "National AI ecosystem needed to harness country's potential: Speakers - Bangladesh Sangbad Sangstha (BSS)",
+        "Industry-academia-government collaboration vital for knowledge-based economy: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)"
+      ],
+      "answer": 0,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUEpuejZjTVVDY3NfNHkzT2xMYWRJSmlldXBxYnF0UFZFRDFkTEtNRXo2bVk1T2J2V3duWWhxOTNTcUVvOWE4SkJETHRmNnRPeTJVVjRNMDRSclloaEpVQjBsX2c0SVlUUFdlcFFWYkdqeGhxZlZyQUxvU1dRTDNrWG8yNHA0NU1ZU3UtbHRTZG9iU0VkWXgtM2RNbGplZzJFSnpUUElsdXBlTF90SnRvelVaaHE0VFdvd202RV9YWjZxanMzNXo2aU1oS0xpUndZeUJMY2UwVlE?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-07T21:55:14.280Z",
+      "verifiedAt": "2026-11-07T21:55:14.280Z",
+      "expiresAt": "2026-11-10T21:55:14.280Z"
+    },
+    {
+      "id": "ca-616904d6854b8d48d4cf",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: What’s happening this week in economics? Deloitte",
+      "options": [
+        "Industry-academia-government collaboration vital for knowledge-based economy: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)",
+        "Reports and Indices in News 2025-2026, National and International List - Vajiram & Ravi",
+        "National AI ecosystem needed to harness country's potential: Speakers - Bangladesh Sangbad Sangstha (BSS)",
+        "What’s happening this week in economics? - Deloitte"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-07T21:55:14.280Z",
+      "verifiedAt": "2026-11-07T21:55:14.280Z",
+      "expiresAt": "2026-11-10T21:55:14.280Z"
+    },
+    {
+      "id": "ca-b7e391235e946dd1c232",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Reports and Indices in News 2025-2026, National and International List Vajiram & Ravi",
+      "options": [
+        "National AI ecosystem needed to harness country's potential: Speakers - Bangladesh Sangbad Sangstha (BSS)",
+        "India-Bangladesh Ganges Water Treaty: Moving Beyond Water Sharing Towards Ecological Conservation - Sanskriti IAS",
+        "What’s happening this week in economics? - Deloitte",
+        "Reports and Indices in News 2025-2026, National and International List - Vajiram & Ravi"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWxPcTdzbXFIcXZPcjdUSVVLWmRIZF9ObDdwVVRybUJIRXlLMzRyWGVIREllME0yRC1XYk1Jd3VINkppRmZ0Zkk2MU5vTE5malJGdnVkQU9GTVcyTFJ3NFAzV3I0QzVmRE1mQ2Z1dFdLM1ltT3gtejJIaHlUX1VKRzN1OHoyRE11?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-07T21:55:14.280Z",
+      "verifiedAt": "2026-11-07T21:55:14.280Z",
+      "expiresAt": "2026-11-10T21:55:14.280Z"
+    },
     {
       "id": "ca-9fdc713ce19596f45124",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Major Events of 2026 | Pop Culture, Current Events, News, & Timeline Britannica",
@@ -127,60 +181,6 @@
       "createdAt": "2026-11-05T06:55:04.618Z",
       "verifiedAt": "2026-11-05T06:55:04.618Z",
       "expiresAt": "2026-11-08T06:55:04.618Z"
-    },
-    {
-      "id": "ca-565af86fabd8f0fc2011",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: India-Bangladesh Ganges Water Treaty: Moving Beyond Water Sharing Towards Ecological Conservation Sanskriti IAS",
-      "options": [
-        "What’s happening this week in economics? - Deloitte",
-        "India-Bangladesh Ganges Water Treaty: Moving Beyond Water Sharing Towards Ecological Conservation - Sanskriti IAS",
-        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
-        "Reports and Indices in News 2025-2026, National and International List - Vajiram & Ravi"
-      ],
-      "answer": 1,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUEpuejZjTVVDY3NfNHkzT2xMYWRJSmlldXBxYnF0UFZFRDFkTEtNRXo2bVk1T2J2V3duWWhxOTNTcUVvOWE4SkJETHRmNnRPeTJVVjRNMDRSclloaEpVQjBsX2c0SVlUUFdlcFFWYkdqeGhxZlZyQUxvU1dRTDNrWG8yNHA0NU1ZU3UtbHRTZG9iU0VkWXgtM2RNbGplZzJFSnpUUElsdXBlTF90SnRvelVaaHE0VFdvd202RV9YWjZxanMzNXo2aU1oS0xpUndZeUJMY2UwVlE?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-04T19:49:41.210Z",
-      "verifiedAt": "2026-11-04T19:49:41.210Z",
-      "expiresAt": "2026-11-07T19:49:41.210Z"
-    },
-    {
-      "id": "ca-616904d6854b8d48d4cf",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: What’s happening this week in economics? Deloitte",
-      "options": [
-        "Reports and Indices in News 2025-2026, National and International List - Vajiram & Ravi",
-        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
-        "What’s happening this week in economics? - Deloitte",
-        "India-Bangladesh Ganges Water Treaty: Moving Beyond Water Sharing Towards Ecological Conservation - Sanskriti IAS"
-      ],
-      "answer": 2,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-04T19:49:41.210Z",
-      "verifiedAt": "2026-11-04T19:49:41.210Z",
-      "expiresAt": "2026-11-07T19:49:41.210Z"
-    },
-    {
-      "id": "ca-b7e391235e946dd1c232",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Reports and Indices in News 2025-2026, National and International List Vajiram & Ravi",
-      "options": [
-        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
-        "India-Bangladesh Ganges Water Treaty: Moving Beyond Water Sharing Towards Ecological Conservation - Sanskriti IAS",
-        "What’s happening this week in economics? - Deloitte",
-        "Reports and Indices in News 2025-2026, National and International List - Vajiram & Ravi"
-      ],
-      "answer": 3,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWxPcTdzbXFIcXZPcjdUSVVLWmRIZF9ObDdwVVRybUJIRXlLMzRyWGVIREllME0yRC1XYk1Jd3VINkppRmZ0Zkk2MU5vTE5malJGdnVkQU9GTVcyTFJ3NFAzV3I0QzVmRE1mQ2Z1dFdLM1ltT3gtejJIaHlUX1VKRzN1OHoyRE11?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-04T19:49:41.210Z",
-      "verifiedAt": "2026-11-04T19:49:41.210Z",
-      "expiresAt": "2026-11-07T19:49:41.210Z"
     }
   ]
 }
