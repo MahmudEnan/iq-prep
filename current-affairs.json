@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-07T06:05:05.057Z",
-  "total": 9,
+  "updatedAt": "2026-11-07T13:10:16.289Z",
+  "total": 10,
   "questions": [
+    {
+      "id": "ca-9fdc713ce19596f45124",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Major Events of 2026 | Pop Culture, Current Events, News, & Timeline Britannica",
+      "options": [
+        "Reports and Indices in News 2025-2026, National and International List - Vajiram & Ravi",
+        "What’s happening this week in economics? - Deloitte",
+        "National AI ecosystem needed to harness country's potential: Speakers - Bangladesh Sangbad Sangstha (BSS)",
+        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMVZwel9YMV84Q0U3RW1idDZoejFWUGI5MHM4aGVMWTRMUEthOFJvaEhLSmt2bUNkNkREbFFkVVNSV3FEZE1PN3huaWZ3cWR0dll0VjJxRmZNbGJOVVV5Qk5vMA?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-07T13:10:16.289Z",
+      "verifiedAt": "2026-11-07T13:10:16.289Z",
+      "expiresAt": "2026-11-10T13:10:16.289Z"
+    },
     {
       "id": "ca-5f8909e3953925366ec2",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: BD-Russia IGC meeting held in Dhaka Bangladesh Sangbad Sangstha (BSS)",
