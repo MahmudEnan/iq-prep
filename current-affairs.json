@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-08T06:09:12.728Z",
+  "updatedAt": "2026-11-08T13:31:31.609Z",
   "total": 10,
   "questions": [
+    {
+      "id": "ca-21d446f00e5311d500ea",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Beyond the boundary, cricket fuels Sylhet's economy Bangladesh Sangbad Sangstha (BSS)",
+      "options": [
+        "National AI ecosystem needed to harness country's potential: Speakers - Bangladesh Sangbad Sangstha (BSS)",
+        "What’s happening this week in economics? - Deloitte",
+        "Industry-academia-government collaboration vital for knowledge-based economy: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)",
+        "Beyond the boundary, cricket fuels Sylhet's economy - Bangladesh Sangbad Sangstha (BSS)"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kLXNTYzEwREtmNHBWcG15WWJ2bEd4akJWbTRybzhOZWhMYk5qQkpGd2VkU0EyUllVb0RJcFh2RWg4ZDVMNy1iR3ExaEJyQXc?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-08T13:31:31.609Z",
+      "verifiedAt": "2026-11-08T13:31:31.609Z",
+      "expiresAt": "2026-11-11T13:31:31.609Z"
+    },
+    {
+      "id": "ca-1c67cab8f626b2f67216",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates Careers360",
+      "options": [
+        "Industry-academia-government collaboration vital for knowledge-based economy: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)",
+        "What’s happening this week in economics? - Deloitte",
+        "National AI ecosystem needed to harness country's potential: Speakers - Bangladesh Sangbad Sangstha (BSS)",
+        "Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates - Careers360"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE92U2JWUGdMd1ZxLUZmMGluXzJqX3FKb2Q1OEVEVlllWXpraW91enkwaVFwcU5ob0pCU2lGZnpnaE5xRy1EeVkxWWVkNGJxeXJZbnJMcHdjQU1qR0xTZ3pBcXhpWWVQMUNoSThzRFhrMTU3UQ?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-08T13:31:31.609Z",
+      "verifiedAt": "2026-11-08T13:31:31.609Z",
+      "expiresAt": "2026-11-11T13:31:31.609Z"
+    },
     {
       "id": "ca-565af86fabd8f0fc2011",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: India-Bangladesh Ganges Water Treaty: Moving Beyond Water Sharing Towards Ecological Conservation Sanskriti IAS",
@@ -145,42 +181,6 @@
       "createdAt": "2026-11-05T20:00:23.618Z",
       "verifiedAt": "2026-11-05T20:00:23.618Z",
       "expiresAt": "2026-11-08T20:00:23.618Z"
-    },
-    {
-      "id": "ca-29f4f89a39ed54828c18",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: First-ever AI business summit begins tomorrow The Daily Star",
-      "options": [
-        "First-ever AI business summit begins tomorrow - The Daily Star",
-        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
-        "What’s happening this week in economics? - Deloitte",
-        "Reports and Indices in News 2025-2026, National and International List - Vajiram & Ravi"
-      ],
-      "answer": 0,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh government economy science sports\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSllMZ3VxSlhVYnd6U2hvLVRsUjlLVmdNQWUzdV94RERVRGxOQUZLLTZWYzBVYW5iNUxtNXdyM1R6R1BVVlFHdk1DV1JJZjk2WWpRYUtLSnoxdXE1VFNneWstRW4yUWpCV2swcGJ4WlhDa3RFT0VFMTM5QVpsdkYtaWtQSndUcWNRaUU1NHduUzc1M0doZ1o0SU12aHVZNkJaVUViMFI1dw?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-05T06:55:04.618Z",
-      "verifiedAt": "2026-11-05T06:55:04.618Z",
-      "expiresAt": "2026-11-08T06:55:04.618Z"
-    },
-    {
-      "id": "ca-207accb535cccc76a996",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams Finology Legal",
-      "options": [
-        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
-        "What’s happening this week in economics? - Deloitte",
-        "Reports and Indices in News 2025-2026, National and International List - Vajiram & Ravi",
-        "First-ever AI business summit begins tomorrow - The Daily Star"
-      ],
-      "answer": 0,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmg3dExScXVZb2hUS3hzaE1MUlFqckVSNzdCaEYyc1FwN0F3S2ZXbHJwYUZlc3piRzJ3SHB6cjEzTHR3YTloNGtnQ01rQmxiS1NwZmpiNEQ5ZHZ5NV9FdVU5N2tlUnFDTkVyclh3Y3poNHhBdXVDMnFabDE5d3RGYg?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-05T06:55:04.618Z",
-      "verifiedAt": "2026-11-05T06:55:04.618Z",
-      "expiresAt": "2026-11-08T06:55:04.618Z"
     }
   ]
 }
