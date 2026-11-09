@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-08T22:11:22.989Z",
-  "total": 10,
+  "updatedAt": "2026-11-09T06:43:13.957Z",
+  "total": 12,
   "questions": [
+    {
+      "id": "ca-36afa12cc6b14734f006",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Bangladesh-China road link via Myanmar could cut journey to 24 hours: minister The Business Standard",
+      "options": [
+        "India-Bangladesh Ganges Water Treaty: Moving Beyond Water Sharing Towards Ecological Conservation - Sanskriti IAS",
+        "BD-Russia IGC meeting held in Dhaka - Bangladesh Sangbad Sangstha (BSS)",
+        "Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates - Careers360",
+        "Bangladesh-China road link via Myanmar could cut journey to 24 hours: minister - The Business Standard"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGFkay1iSHN6LTZhVlE2dDhlS1NYUUxhdXJWNGlwMnlBSDBaakI0aGd5Q05GbTNZNS1lMjNCQ0h1a2IzSHYtaC1GQUpMYWdEcDZRNUt2RkNwSGFiM1NxREpaYnVnQTB0LWE3dnFoNUFiMjJLSVJNcTJiN3JGVzY2enJWSjVsazdWeEVZdGFqMVRhdzJXUzM5Z2lXQTFsZUhhdy1seEFJal9wVm5VMWhXRUpLTlpYTFFs?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-09T06:43:13.957Z",
+      "verifiedAt": "2026-11-09T06:43:13.957Z",
+      "expiresAt": "2026-11-12T06:43:13.957Z"
+    },
+    {
+      "id": "ca-d778a12a1d6ea2a90f8d",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Top 10 Current Affairs October 2026 for UPSC, SSC, Banking & Other Competitive Exams Finology Legal",
+      "options": [
+        "India-Bangladesh Ganges Water Treaty: Moving Beyond Water Sharing Towards Ecological Conservation - Sanskriti IAS",
+        "Beyond the boundary, cricket fuels Sylhet's economy - Bangladesh Sangbad Sangstha (BSS)",
+        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
+        "Top 10 Current Affairs October 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2dUowTlBndU94SUtXUDhzaVJRSjdKOUFqYjlVbFUwdUhKb01TY3Nld2RmWU1QVjl4UTFvYXpWZG1xcUdHUEZkSU1PUFBja0kxQ2ZXWU9Uc20xY29fSTBZQWJfenlsbU5zdHNFaWU3N1U5Z3FRUWxVZ2Q3UTMzdw?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-09T06:43:13.957Z",
+      "verifiedAt": "2026-11-09T06:43:13.957Z",
+      "expiresAt": "2026-11-12T06:43:13.957Z"
+    },
     {
       "id": "ca-207accb535cccc76a996",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams Finology Legal",
