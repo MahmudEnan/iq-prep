@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-09T06:43:13.957Z",
+  "updatedAt": "2026-11-09T22:25:58.531Z",
   "total": 12,
   "questions": [
+    {
+      "id": "ca-1ab049bea2afab693a53",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Bangladesh, Russia sign protocol to boost trade, economic cooperation Banglanews24",
+      "options": [
+        "Bangladesh, Russia sign protocol to boost trade, economic cooperation - Banglanews24",
+        "India-Bangladesh Ganges Water Treaty: Moving Beyond Water Sharing Towards Ecological Conservation - Sanskriti IAS",
+        "Bangladesh-China road link via Myanmar could cut journey to 24 hours: minister - The Business Standard",
+        "What’s happening this week in economics? - Deloitte"
+      ],
+      "answer": 0,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0RkNIazhRbVBkQkpIVkZUeWJWZU9Oa1R6TDJyZ3FWS3h6VWlNOFFoNFg4eV9iYy1lYXJCOVRFYUdwYVM5VGktN3JPQUJXa1JlWlVRa2tSM2VXdllSYWt5SVFXMS1kcTNrV05R?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-09T22:25:58.531Z",
+      "verifiedAt": "2026-11-09T22:25:58.531Z",
+      "expiresAt": "2026-11-12T22:25:58.531Z"
+    },
     {
       "id": "ca-36afa12cc6b14734f006",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Bangladesh-China road link via Myanmar could cut journey to 24 hours: minister The Business Standard",
@@ -199,24 +217,6 @@
       "createdAt": "2026-11-07T13:10:16.289Z",
       "verifiedAt": "2026-11-07T13:10:16.289Z",
       "expiresAt": "2026-11-10T13:10:16.289Z"
-    },
-    {
-      "id": "ca-5f8909e3953925366ec2",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: BD-Russia IGC meeting held in Dhaka Bangladesh Sangbad Sangstha (BSS)",
-      "options": [
-        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
-        "What’s happening this week in economics? - Deloitte",
-        "BD-Russia IGC meeting held in Dhaka - Bangladesh Sangbad Sangstha (BSS)",
-        "USS Warrior Arrives in Chattogram for CARAT Bangladesh 2026 - GK Today"
-      ],
-      "answer": 2,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh government economy science sports\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQOGpWQ2dfR1FvYkNubWhOWDJxOU9fTC1rRHFyNC0ydVJnQTJwNFAtLVgyOHdYa2JrVkxTM21leDF6eFR5Um5QMU42TTRpZEJO?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-06T19:27:49.815Z",
-      "verifiedAt": "2026-11-06T19:27:49.815Z",
-      "expiresAt": "2026-11-09T19:27:49.815Z"
     }
   ]
 }
