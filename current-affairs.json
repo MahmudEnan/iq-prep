@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-09T22:25:58.531Z",
-  "total": 12,
+  "updatedAt": "2026-11-10T07:25:18.769Z",
+  "total": 13,
   "questions": [
+    {
+      "id": "ca-db5f4ecf333057c3905d",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 10: Top national, sports and world news curated for you India Today",
+      "options": [
+        "What’s happening this week in economics? - Deloitte",
+        "Bangladesh, Russia sign protocol to boost trade, economic cooperation - Banglanews24",
+        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
+        "School assembly news headlines today- November 10: Top national, sports and world news curated for you - India Today"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYmRWc0RsU2s5OURLUGhXd1hUYU56T0ZWemkxLVBUaVdjOHNZMVE3c09UY2J4NnNTQzRTWkJhdjl2YUt3RmFCX2c3OWI0WjRUUzVUV0dad2FhN1Y3MzZCNXQtVkhPUGNYckdESEU4SktEWlh3a3JJZ18ySDdxNTdPU2dqOWdCNjFkOXVSZmMtQTFETmIzODctUF9NUGFFRTdoTUZXSnIwVlF0OWZpeHg3bXh1eS1MUk1IZHR2eVVfYk5iM002U29SRldnZWl4UFduSTktZlNCZVNjUVoydjJYZ1QxMWpLdDQ?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-10T07:25:18.769Z",
+      "verifiedAt": "2026-11-10T07:25:18.769Z",
+      "expiresAt": "2026-11-13T07:25:18.769Z"
+    },
     {
       "id": "ca-1ab049bea2afab693a53",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Bangladesh, Russia sign protocol to boost trade, economic cooperation Banglanews24",
