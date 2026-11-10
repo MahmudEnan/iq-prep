@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-10T07:25:18.769Z",
+  "updatedAt": "2026-11-10T19:48:05.518Z",
   "total": 13,
   "questions": [
+    {
+      "id": "ca-74d672939ba38e5e0265",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? THE WEEK",
+      "options": [
+        "School assembly news headlines today- November 10: Top national, sports and world news curated for you - India Today",
+        "Top 10 Current Affairs October 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
+        "Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? - THE WEEK",
+        "Bangladesh, Russia sign protocol to boost trade, economic cooperation - Banglanews24"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOTF6b003OE82Yk1lcTNFczNIWkJvUE5aVlBIWDZZS1VEWFFvRWp4bjFjM2FwUGt4RjJxZWdXTmRXT2liU29aS01TM1ZTQW1UX0pldEpPYUdJTWMxbEFUNlhBSEp0LUF5R2VaRmpvUkdxYjFqUmU0QlRhVnc1VnlUdmViMzNHZmNmWmpSeVd3VXZWaFdFWTd2allQam9zcVF3aW5zdXNBNlc0SjdGRklmV0hMZVo4ck5Vby1ZTU5tY3pkSHRrOGpEUWhzemNzdVY4Zm1FanYteG9mbnlGTHI4ejVkMzVNcUZPVkE?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-10T19:48:05.518Z",
+      "verifiedAt": "2026-11-10T19:48:05.518Z",
+      "expiresAt": "2026-11-13T19:48:05.518Z"
+    },
     {
       "id": "ca-db5f4ecf333057c3905d",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 10: Top national, sports and world news curated for you India Today",
@@ -217,24 +235,6 @@
       "createdAt": "2026-11-07T21:55:14.280Z",
       "verifiedAt": "2026-11-07T21:55:14.280Z",
       "expiresAt": "2026-11-10T21:55:14.280Z"
-    },
-    {
-      "id": "ca-9fdc713ce19596f45124",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Major Events of 2026 | Pop Culture, Current Events, News, & Timeline Britannica",
-      "options": [
-        "Reports and Indices in News 2025-2026, National and International List - Vajiram & Ravi",
-        "What’s happening this week in economics? - Deloitte",
-        "National AI ecosystem needed to harness country's potential: Speakers - Bangladesh Sangbad Sangstha (BSS)",
-        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica"
-      ],
-      "answer": 3,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMVZwel9YMV84Q0U3RW1idDZoejFWUGI5MHM4aGVMWTRMUEthOFJvaEhLSmt2bUNkNkREbFFkVVNSV3FEZE1PN3huaWZ3cWR0dll0VjJxRmZNbGJOVVV5Qk5vMA?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-07T13:10:16.289Z",
-      "verifiedAt": "2026-11-07T13:10:16.289Z",
-      "expiresAt": "2026-11-10T13:10:16.289Z"
     }
   ]
 }
