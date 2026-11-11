@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-11-11T06:33:07.812Z",
-  "total": 10,
+  "updatedAt": "2026-11-11T19:39:23.863Z",
+  "total": 11,
   "questions": [
+    {
+      "id": "ca-0d82f04940799875d4f7",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Positive response to AI data centre in Bangladesh, AIDCQ delegation coming in December Jagonews24",
+      "options": [
+        "Positive response to AI data centre in Bangladesh, AIDCQ delegation coming in December - Jagonews24",
+        "Daily Current Affairs and GK Updates (9th November, 2026) | - Bankersadda",
+        "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh - RFI",
+        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal"
+      ],
+      "answer": 0,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05MlNSZGVWVmlTVGtLY2lhTFJOZEVoeDhmWExjSE9mNnNWdE9rdXNGNlVQb0IwZjMyUkxIUFFIWk1CZGstYzNlSW1TQWkxRVFVRnRwVFNiZHdUUTlDWUE?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-11T19:39:23.863Z",
+      "verifiedAt": "2026-11-11T19:39:23.863Z",
+      "expiresAt": "2026-11-14T19:39:23.863Z"
+    },
+    {
+      "id": "ca-869fc6856b716103dea1",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh RFI",
+      "options": [
+        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
+        "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh - RFI",
+        "Positive response to AI data centre in Bangladesh, AIDCQ delegation coming in December - Jagonews24",
+        "Daily Current Affairs and GK Updates (9th November, 2026) | - Bankersadda"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2ZRLWtfMUlueDlWQndKdVhkZ2xnODJ0aXBvMW5CWHVnZHZicFJWemZPN0ZHZnlka1o2clZ2dkJpS3VTbkg0S2ZQeGRlZ2ZFdUpZTWdBMXJCUkFLYi1jNmF4Umd6cmdRM2F3UWd0YW1LbW1uRkREOEJnYmRQSFZhWXpQUnZYQkc1eDlPUDN3c3o4RW5yLUhxX3VkaFpfRnZKaWpldUQ0NXJ4VHUwOXZIRExZODhxY0VCdGc?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-11T19:39:23.863Z",
+      "verifiedAt": "2026-11-11T19:39:23.863Z",
+      "expiresAt": "2026-11-14T19:39:23.863Z"
+    },
+    {
+      "id": "ca-abe89d5f22193038eadc",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Daily Current Affairs and GK Updates (9th November, 2026) | Bankersadda",
+      "options": [
+        "Positive response to AI data centre in Bangladesh, AIDCQ delegation coming in December - Jagonews24",
+        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
+        "Daily Current Affairs and GK Updates (9th November, 2026) | - Bankersadda",
+        "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh - RFI"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRU9WQ0NYalhpNEJ1ZElremFXNTYyejNYSElGeDRFbUNWNFl4V2h3U0RKaXE5SFMydXB4TklRaC1RR3g4M2Y0Sl9BaTc5RkhfaWVlMkdROHhiTzdEV2djVm9iaHltOGE0QjJhblRscjRmX2oydjN6Ynhod212V0hHVk05NFl4Z0V5bzBR?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-11T19:39:23.863Z",
+      "verifiedAt": "2026-11-11T19:39:23.863Z",
+      "expiresAt": "2026-11-14T19:39:23.863Z"
+    },
     {
       "id": "ca-74d672939ba38e5e0265",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? THE WEEK",
@@ -145,42 +199,6 @@
       "createdAt": "2026-11-08T22:11:22.989Z",
       "verifiedAt": "2026-11-08T22:11:22.989Z",
       "expiresAt": "2026-11-11T22:11:22.989Z"
-    },
-    {
-      "id": "ca-21d446f00e5311d500ea",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Beyond the boundary, cricket fuels Sylhet's economy Bangladesh Sangbad Sangstha (BSS)",
-      "options": [
-        "National AI ecosystem needed to harness country's potential: Speakers - Bangladesh Sangbad Sangstha (BSS)",
-        "What’s happening this week in economics? - Deloitte",
-        "Industry-academia-government collaboration vital for knowledge-based economy: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)",
-        "Beyond the boundary, cricket fuels Sylhet's economy - Bangladesh Sangbad Sangstha (BSS)"
-      ],
-      "answer": 3,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh government economy science sports\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kLXNTYzEwREtmNHBWcG15WWJ2bEd4akJWbTRybzhOZWhMYk5qQkpGd2VkU0EyUllVb0RJcFh2RWg4ZDVMNy1iR3ExaEJyQXc?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-08T13:31:31.609Z",
-      "verifiedAt": "2026-11-08T13:31:31.609Z",
-      "expiresAt": "2026-11-11T13:31:31.609Z"
-    },
-    {
-      "id": "ca-1c67cab8f626b2f67216",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates Careers360",
-      "options": [
-        "Industry-academia-government collaboration vital for knowledge-based economy: Mahdi Amin - Bangladesh Sangbad Sangstha (BSS)",
-        "What’s happening this week in economics? - Deloitte",
-        "National AI ecosystem needed to harness country's potential: Speakers - Bangladesh Sangbad Sangstha (BSS)",
-        "Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates - Careers360"
-      ],
-      "answer": 3,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE92U2JWUGdMd1ZxLUZmMGluXzJqX3FKb2Q1OEVEVlllWXpraW91enkwaVFwcU5ob0pCU2lGZnpnaE5xRy1EeVkxWWVkNGJxeXJZbnJMcHdjQU1qR0xTZ3pBcXhpWWVQMUNoSThzRFhrMTU3UQ?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-08T13:31:31.609Z",
-      "verifiedAt": "2026-11-08T13:31:31.609Z",
-      "expiresAt": "2026-11-11T13:31:31.609Z"
     }
   ]
 }
