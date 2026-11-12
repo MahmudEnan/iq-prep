@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-12T07:18:16.244Z",
-  "total": 11,
+  "updatedAt": "2026-11-12T19:59:16.117Z",
+  "total": 12,
   "questions": [
+    {
+      "id": "ca-902301464bb02471faa2",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 13: Top national, sports and world news curated for you India Today",
+      "options": [
+        "What’s happening this week in economics? - Deloitte",
+        "Top 10 Current Affairs October 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
+        "School assembly news headlines today- November 13: Top national, sports and world news curated for you - India Today",
+        "Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? - THE WEEK"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeFVaWVUxQnRITHIzUUFqcEdHRUpfbWxpNUJXNWJRMXNJazVJa3d6V292cC01dnJlQTVyNHAtWFJHZUJacVlQSUZybllQYngzNXNzWGZldVlScDFfRGNiNWhvQlVWRzJCcWRUMkpVaVBrdVYycnBPRDVRamRuVnJZYWt5ZWx4Q1BERVFMdzg2ZTdiWlVuSWJkWWZzbmlvVE1wZnlEMjhFY1JRZmxTUWVuVVFkWUJlUHFGX29OdjJnZTc0aDVCb19VQmN2UVZOdXpZYW1QQldfaG1NaWNCcVBjejF4SzRKdjQ?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-12T19:59:16.117Z",
+      "verifiedAt": "2026-11-12T19:59:16.117Z",
+      "expiresAt": "2026-11-15T19:59:16.117Z"
+    },
     {
       "id": "ca-7c365aef1740d6f6e7b8",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 12: Top national, sports and world news curated for you India Today",
