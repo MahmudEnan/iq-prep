@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-11-13T06:51:21.724Z",
-  "total": 11,
+  "updatedAt": "2026-11-13T19:46:58.189Z",
+  "total": 13,
   "questions": [
+    {
+      "id": "ca-7ed45b974bda3b18783d",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 14: Top national, sports and world news curated for you India Today",
+      "options": [
+        "International Telecommunication Union sets the global direction for digital technologies - Ulkoministeriö",
+        "Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates - Careers360",
+        "Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? - THE WEEK",
+        "School assembly news headlines today- November 14: Top national, sports and world news curated for you - India Today"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN0RtRVlTZW1Lci1Bb2p1Q1pSX1d5UGRVbFh0amx3VDJfejNMNTROVUFRQ01PUEV2SkRNSW1UTjBXWFplajUxM2dTYlFWSWxURkxVdlZFQnJFRUZpVGtTakhlZUg1S2NGeVhtSE1saXk3VW9PN2YxS2xxNnpxdkVMOVNtLTZEVlUwZ3c4eDN4SFF0eUczZThkY0doRDRReU9YRHVyQnQ5UW90SzBpOTJLU1V1Vk1fOUV3MGdMV2ZnNzFwcUxlTnpGcHB5bWtTSTl2dXNrQUt0a1piVnJuYi1jTUJUbG1LNnc?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-13T19:46:58.189Z",
+      "verifiedAt": "2026-11-13T19:46:58.189Z",
+      "expiresAt": "2026-11-16T19:46:58.189Z"
+    },
+    {
+      "id": "ca-8e1499fae59d4d3112e4",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: SBI Clerk & IBPS Clerk Mains 2026: Check These Repeated GA Topics from PO Mains Exams Bankersadda",
+      "options": [
+        "SBI Clerk & IBPS Clerk Mains 2026: Check These Repeated GA Topics from PO Mains Exams - Bankersadda",
+        "International Telecommunication Union sets the global direction for digital technologies - Ulkoministeriö",
+        "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh - RFI",
+        "Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? - THE WEEK"
+      ],
+      "answer": 0,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONHdLeVBaWEZrbE1SeXZIeDdKclNSMWQ4VERiNFJnTHJxZDBUcDRMNzVtajlnc0xDLXFheGJtWlhhLTVfb0VDdnh3dHNhMHBLY25vaWxQOERQNktIemVrQVlmQlRQTWdmMWYzdXFFR0FVNl9WaGo3MFE2cm5sM1hJX0Z5VEZQamZjbFJrRlRuV1FVZ2VsT1NKdTY1X3JKbWJxUi1WdDFZU2V5NnR3M3R4dQ?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-13T19:46:58.189Z",
+      "verifiedAt": "2026-11-13T19:46:58.189Z",
+      "expiresAt": "2026-11-16T19:46:58.189Z"
+    },
+    {
+      "id": "ca-1c67cab8f626b2f67216",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates Careers360",
+      "options": [
+        "What’s happening this week in economics? - Deloitte",
+        "Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates - Careers360",
+        "School assembly news headlines today- November 14: Top national, sports and world news curated for you - India Today",
+        "Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? - THE WEEK"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE92U2JWUGdMd1ZxLUZmMGluXzJqX3FKb2Q1OEVEVlllWXpraW91enkwaVFwcU5ob0pCU2lGZnpnaE5xRy1EeVkxWWVkNGJxeXJZbnJMcHdjQU1qR0xTZ3pBcXhpWWVQMUNoSThzRFhrMTU3UQ?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-13T19:46:58.189Z",
+      "verifiedAt": "2026-11-13T19:46:58.189Z",
+      "expiresAt": "2026-11-16T19:46:58.189Z"
+    },
     {
       "id": "ca-902301464bb02471faa2",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 13: Top national, sports and world news curated for you India Today",
@@ -181,24 +235,6 @@
       "createdAt": "2026-11-10T19:48:05.518Z",
       "verifiedAt": "2026-11-10T19:48:05.518Z",
       "expiresAt": "2026-11-13T19:48:05.518Z"
-    },
-    {
-      "id": "ca-db5f4ecf333057c3905d",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 10: Top national, sports and world news curated for you India Today",
-      "options": [
-        "What’s happening this week in economics? - Deloitte",
-        "Bangladesh, Russia sign protocol to boost trade, economic cooperation - Banglanews24",
-        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
-        "School assembly news headlines today- November 10: Top national, sports and world news curated for you - India Today"
-      ],
-      "answer": 3,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYmRWc0RsU2s5OURLUGhXd1hUYU56T0ZWemkxLVBUaVdjOHNZMVE3c09UY2J4NnNTQzRTWkJhdjl2YUt3RmFCX2c3OWI0WjRUUzVUV0dad2FhN1Y3MzZCNXQtVkhPUGNYckdESEU4SktEWlh3a3JJZ18ySDdxNTdPU2dqOWdCNjFkOXVSZmMtQTFETmIzODctUF9NUGFFRTdoTUZXSnIwVlF0OWZpeHg3bXh1eS1MUk1IZHR2eVVfYk5iM002U29SRldnZWl4UFduSTktZlNCZVNjUVoydjJYZ1QxMWpLdDQ?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-10T07:25:18.769Z",
-      "verifiedAt": "2026-11-10T07:25:18.769Z",
-      "expiresAt": "2026-11-13T07:25:18.769Z"
     }
   ]
 }
