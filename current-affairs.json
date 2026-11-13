@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-12T19:59:16.117Z",
-  "total": 12,
+  "updatedAt": "2026-11-13T06:51:21.724Z",
+  "total": 11,
   "questions": [
     {
       "id": "ca-902301464bb02471faa2",
@@ -199,24 +199,6 @@
       "createdAt": "2026-11-10T07:25:18.769Z",
       "verifiedAt": "2026-11-10T07:25:18.769Z",
       "expiresAt": "2026-11-13T07:25:18.769Z"
-    },
-    {
-      "id": "ca-1ab049bea2afab693a53",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Bangladesh, Russia sign protocol to boost trade, economic cooperation Banglanews24",
-      "options": [
-        "Bangladesh, Russia sign protocol to boost trade, economic cooperation - Banglanews24",
-        "India-Bangladesh Ganges Water Treaty: Moving Beyond Water Sharing Towards Ecological Conservation - Sanskriti IAS",
-        "Bangladesh-China road link via Myanmar could cut journey to 24 hours: minister - The Business Standard",
-        "What’s happening this week in economics? - Deloitte"
-      ],
-      "answer": 0,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh government economy science sports\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0RkNIazhRbVBkQkpIVkZUeWJWZU9Oa1R6TDJyZ3FWS3h6VWlNOFFoNFg4eV9iYy1lYXJCOVRFYUdwYVM5VGktN3JPQUJXa1JlWlVRa2tSM2VXdllSYWt5SVFXMS1kcTNrV05R?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-09T22:25:58.531Z",
-      "verifiedAt": "2026-11-09T22:25:58.531Z",
-      "expiresAt": "2026-11-12T22:25:58.531Z"
     }
   ]
 }
