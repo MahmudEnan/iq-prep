@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-14T18:10:40.348Z",
-  "total": 16,
+  "updatedAt": "2026-11-14T22:29:36.530Z",
+  "total": 14,
   "questions": [
+    {
+      "id": "ca-869fc6856b716103dea1",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh RFI",
+      "options": [
+        "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh - RFI",
+        "SBI Clerk & IBPS Clerk Mains 2026: Check These Repeated GA Topics from PO Mains Exams - Bankersadda",
+        "November 3rd Current Affairs 2026: Daily Updates for Competitive Exams - Sakshi Education",
+        "What’s happening this week in economics? - Deloitte"
+      ],
+      "answer": 0,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2ZRLWtfMUlueDlWQndKdVhkZ2xnODJ0aXBvMW5CWHVnZHZicFJWemZPN0ZHZnlka1o2clZ2dkJpS3VTbkg0S2ZQeGRlZ2ZFdUpZTWdBMXJCUkFLYi1jNmF4Umd6cmdRM2F3UWd0YW1LbW1uRkREOEJnYmRQSFZhWXpQUnZYQkc1eDlPUDN3c3o4RW5yLUhxX3VkaFpfRnZKaWpldUQ0NXJ4VHUwOXZIRExZODhxY0VCdGc?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-14T22:29:36.530Z",
+      "verifiedAt": "2026-11-14T22:29:36.530Z",
+      "expiresAt": "2026-11-17T22:29:36.530Z"
+    },
     {
       "id": "ca-55f6a19fa1784a35648e",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: November 3rd Current Affairs 2026: Daily Updates for Competitive Exams Sakshi Education",
@@ -235,60 +253,6 @@
       "createdAt": "2026-11-12T07:18:16.244Z",
       "verifiedAt": "2026-11-12T07:18:16.244Z",
       "expiresAt": "2026-11-15T07:18:16.244Z"
-    },
-    {
-      "id": "ca-0d82f04940799875d4f7",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Positive response to AI data centre in Bangladesh, AIDCQ delegation coming in December Jagonews24",
-      "options": [
-        "Positive response to AI data centre in Bangladesh, AIDCQ delegation coming in December - Jagonews24",
-        "Daily Current Affairs and GK Updates (9th November, 2026) | - Bankersadda",
-        "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh - RFI",
-        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal"
-      ],
-      "answer": 0,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh government economy science sports\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05MlNSZGVWVmlTVGtLY2lhTFJOZEVoeDhmWExjSE9mNnNWdE9rdXNGNlVQb0IwZjMyUkxIUFFIWk1CZGstYzNlSW1TQWkxRVFVRnRwVFNiZHdUUTlDWUE?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-11T19:39:23.863Z",
-      "verifiedAt": "2026-11-11T19:39:23.863Z",
-      "expiresAt": "2026-11-14T19:39:23.863Z"
-    },
-    {
-      "id": "ca-869fc6856b716103dea1",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh RFI",
-      "options": [
-        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
-        "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh - RFI",
-        "Positive response to AI data centre in Bangladesh, AIDCQ delegation coming in December - Jagonews24",
-        "Daily Current Affairs and GK Updates (9th November, 2026) | - Bankersadda"
-      ],
-      "answer": 1,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh government economy science sports\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2ZRLWtfMUlueDlWQndKdVhkZ2xnODJ0aXBvMW5CWHVnZHZicFJWemZPN0ZHZnlka1o2clZ2dkJpS3VTbkg0S2ZQeGRlZ2ZFdUpZTWdBMXJCUkFLYi1jNmF4Umd6cmdRM2F3UWd0YW1LbW1uRkREOEJnYmRQSFZhWXpQUnZYQkc1eDlPUDN3c3o4RW5yLUhxX3VkaFpfRnZKaWpldUQ0NXJ4VHUwOXZIRExZODhxY0VCdGc?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-11T19:39:23.863Z",
-      "verifiedAt": "2026-11-11T19:39:23.863Z",
-      "expiresAt": "2026-11-14T19:39:23.863Z"
-    },
-    {
-      "id": "ca-abe89d5f22193038eadc",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Daily Current Affairs and GK Updates (9th November, 2026) | Bankersadda",
-      "options": [
-        "Positive response to AI data centre in Bangladesh, AIDCQ delegation coming in December - Jagonews24",
-        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
-        "Daily Current Affairs and GK Updates (9th November, 2026) | - Bankersadda",
-        "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh - RFI"
-      ],
-      "answer": 2,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRU9WQ0NYalhpNEJ1ZElremFXNTYyejNYSElGeDRFbUNWNFl4V2h3U0RKaXE5SFMydXB4TklRaC1RR3g4M2Y0Sl9BaTc5RkhfaWVlMkdROHhiTzdEV2djVm9iaHltOGE0QjJhblRscjRmX2oydjN6Ynhod212V0hHVk05NFl4Z0V5bzBR?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-11T19:39:23.863Z",
-      "verifiedAt": "2026-11-11T19:39:23.863Z",
-      "expiresAt": "2026-11-14T19:39:23.863Z"
     }
   ]
 }
