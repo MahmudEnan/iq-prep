@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-14T06:32:00.458Z",
-  "total": 14,
+  "updatedAt": "2026-11-14T18:10:40.348Z",
+  "total": 16,
   "questions": [
+    {
+      "id": "ca-55f6a19fa1784a35648e",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: November 3rd Current Affairs 2026: Daily Updates for Competitive Exams Sakshi Education",
+      "options": [
+        "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh - RFI",
+        "Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? - THE WEEK",
+        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica",
+        "November 3rd Current Affairs 2026: Daily Updates for Competitive Exams - Sakshi Education"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPejRLYnhhNXpWUWFLeXc5V2N1U0ZoRmJ4WUhDRzhkWVhXb0JFWVNzWW45cVRJQU1hUzYzSldaT3ZnV3ZQYlVWT2JIc1JIbVlveFVfUnNUdFZvMmhPSEkzSXpMVmhGNUk4aFUzSjJiZzBwLUZjLXRKNU5tNWY5ZkZPbmp4dS1GaG9ZV0VpRDZyWGlTak81THFGY1VrUXVFdng4N0xTaEJweEVVcDdIaHdCeU1tRmZrZGI5WmNBMDM2QXFBLU9kMjlZQlg3R1ZObk5TdHNqNEtUTnJ2QQ?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-14T18:10:40.348Z",
+      "verifiedAt": "2026-11-14T18:10:40.348Z",
+      "expiresAt": "2026-11-17T18:10:40.348Z"
+    },
+    {
+      "id": "ca-9fdc713ce19596f45124",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Major Events of 2026 | Pop Culture, Current Events, News, & Timeline Britannica",
+      "options": [
+        "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh - RFI",
+        "What’s happening this week in economics? - Deloitte",
+        "Bangladesh seeks fair climate tech access, ‘fair’ energy transition - Yeni Safak English",
+        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMVZwel9YMV84Q0U3RW1idDZoejFWUGI5MHM4aGVMWTRMUEthOFJvaEhLSmt2bUNkNkREbFFkVVNSV3FEZE1PN3huaWZ3cWR0dll0VjJxRmZNbGJOVVV5Qk5vMA?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-14T18:10:40.348Z",
+      "verifiedAt": "2026-11-14T18:10:40.348Z",
+      "expiresAt": "2026-11-17T18:10:40.348Z"
+    },
     {
       "id": "ca-f3e551bd68f953c9f3ea",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Bangladesh seeks fair climate tech access, ‘fair’ energy transition Yeni Safak English",
