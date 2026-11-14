@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-13T19:46:58.189Z",
-  "total": 13,
+  "updatedAt": "2026-11-14T06:32:00.458Z",
+  "total": 14,
   "questions": [
+    {
+      "id": "ca-f3e551bd68f953c9f3ea",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Bangladesh seeks fair climate tech access, ‘fair’ energy transition Yeni Safak English",
+      "options": [
+        "International Telecommunication Union sets the global direction for digital technologies - Ulkoministeriö",
+        "Bangladesh seeks fair climate tech access, ‘fair’ energy transition - Yeni Safak English",
+        "SBI Clerk & IBPS Clerk Mains 2026: Check These Repeated GA Topics from PO Mains Exams - Bankersadda",
+        "School assembly news headlines today- November 14: Top national, sports and world news curated for you - India Today"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU3Zfb3ZGQ3hacWFfRk5aV0lCOExKbWpsZ19Ya0hrUTQ4cEV0SG9sY1hUMFJBT2ZrZ0QyN1E3dy1rTWtmX0thY0hIM0JTc09HZC1uc0FJZ2s0LVNTM3JfU3p6dXl0ak5TcE13a055UzNOU24tQVhlLUxHRnB3RGNxMmtJWEExOTlOeEVRWXhSSWk5TDVNTU5NbzVJRmh0SnpPNk5uX3h3?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-14T06:32:00.458Z",
+      "verifiedAt": "2026-11-14T06:32:00.458Z",
+      "expiresAt": "2026-11-17T06:32:00.458Z"
+    },
+    {
+      "id": "ca-74d672939ba38e5e0265",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? THE WEEK",
+      "options": [
+        "SBI Clerk & IBPS Clerk Mains 2026: Check These Repeated GA Topics from PO Mains Exams - Bankersadda",
+        "What’s happening this week in economics? - Deloitte",
+        "Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? - THE WEEK",
+        "School assembly news headlines today- November 14: Top national, sports and world news curated for you - India Today"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOTF6b003OE82Yk1lcTNFczNIWkJvUE5aVlBIWDZZS1VEWFFvRWp4bjFjM2FwUGt4RjJxZWdXTmRXT2liU29aS01TM1ZTQW1UX0pldEpPYUdJTWMxbEFUNlhBSEp0LUF5R2VaRmpvUkdxYjFqUmU0QlRhVnc1VnlUdmViMzNHZmNmWmpSeVd3VXZWaFdFWTd2allQam9zcVF3aW5zdXNBNlc0SjdGRklmV0hMZVo4ck5Vby1ZTU5tY3pkSHRrOGpEUWhzemNzdVY4Zm1FanYteG9mbnlGTHI4ejVkMzVNcUZPVkE?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-14T06:32:00.458Z",
+      "verifiedAt": "2026-11-14T06:32:00.458Z",
+      "expiresAt": "2026-11-17T06:32:00.458Z"
+    },
     {
       "id": "ca-7ed45b974bda3b18783d",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 14: Top national, sports and world news curated for you India Today",
@@ -217,24 +253,6 @@
       "createdAt": "2026-11-11T19:39:23.863Z",
       "verifiedAt": "2026-11-11T19:39:23.863Z",
       "expiresAt": "2026-11-14T19:39:23.863Z"
-    },
-    {
-      "id": "ca-74d672939ba38e5e0265",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? THE WEEK",
-      "options": [
-        "School assembly news headlines today- November 10: Top national, sports and world news curated for you - India Today",
-        "Top 10 Current Affairs October 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
-        "Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? - THE WEEK",
-        "Bangladesh, Russia sign protocol to boost trade, economic cooperation - Banglanews24"
-      ],
-      "answer": 2,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOTF6b003OE82Yk1lcTNFczNIWkJvUE5aVlBIWDZZS1VEWFFvRWp4bjFjM2FwUGt4RjJxZWdXTmRXT2liU29aS01TM1ZTQW1UX0pldEpPYUdJTWMxbEFUNlhBSEp0LUF5R2VaRmpvUkdxYjFqUmU0QlRhVnc1VnlUdmViMzNHZmNmWmpSeVd3VXZWaFdFWTd2allQam9zcVF3aW5zdXNBNlc0SjdGRklmV0hMZVo4ck5Vby1ZTU5tY3pkSHRrOGpEUWhzemNzdVY4Zm1FanYteG9mbnlGTHI4ejVkMzVNcUZPVkE?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-10T19:48:05.518Z",
-      "verifiedAt": "2026-11-10T19:48:05.518Z",
-      "expiresAt": "2026-11-13T19:48:05.518Z"
     }
   ]
 }
