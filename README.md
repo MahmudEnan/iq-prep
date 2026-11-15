@@ -15,21 +15,11 @@ A browser-based, defence-preparation practice workspace with an offline question
 - **Profile and guided tour:** profile preferences and the app walkthrough are stored locally in the browser.
 - **Offline-ready core:** the main local question bank works without a live Current Affairs feed. External news links and automated updates require internet access.
 
-4. Visit `http://localhost:8000`.
-
-Some browser features and local JSON fetches may behave differently when the HTML file is opened directly with `file://`; a local server is recommended.
-
 ## Automated Current Affairs updates (optional)
 
-The workflow in `.github/workflows/daily-current-affairs.yml` runs the updater in GitHub Actions (scheduled for 02:00 UTC / 08:00 Bangladesh time, and also available via manual dispatch). To enable it:
+The workflow in `.github/workflows/daily-current-affairs.yml` runs the updater in GitHub Actions (scheduled for 02:00 UTC / 08:00 Bangladesh time, and also available via manual dispatch).
 
-1. Push the project to a GitHub repository.
-2. Open **Settings → Secrets and variables → Actions**.
-3. Add the repository secret expected by `scripts/update-current-affairs.js` (currently `OPENAI_API_KEY`).
-4. Confirm the workflow permissions allow committing the refreshed `current-affairs.json` file, if the workflow is configured to commit changes.
-5. Run the workflow manually once from **Actions** and inspect its logs and generated JSON before relying on the feed.
-
-Automated content can be incomplete or inaccurate. Check the source links and verify important facts independently. If the API secret is not configured, the feed may not update; the offline question bank remains separate.
+- **Automated content** can be incomplete or inaccurate. Check the source links and verify important facts independently. If the API secret is not configured, the feed may not update; the offline question bank remains separate.
 
 ## Data and privacy notes
 
@@ -57,4 +47,4 @@ T7_Defense_IQ_Prep_V2.1/
 
 ## License
 
-No license is specified in this repository. Add a `LICENSE` file if you want to grant explicit reuse permissions.
+No license is specified in this repository, as it's free for all.'please give star for making it free'.
