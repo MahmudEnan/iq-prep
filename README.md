@@ -15,18 +15,6 @@ A browser-based, defence-preparation practice workspace with an offline question
 - **Profile and guided tour:** profile preferences and the app walkthrough are stored locally in the browser.
 - **Offline-ready core:** the main local question bank works without a live Current Affairs feed. External news links and automated updates require internet access.
 
-## Run locally
-
-No build step is required for the static front end.
-
-1. Download or clone this repository.
-2. Open `index.html` in a modern browser, or serve the folder with a local static server for more consistent `fetch()` behavior.
-3. For example, if Python is installed, run this from the project directory:
-
-   ```bash
-   python -m http.server 8000
-   ```
-
 4. Visit `http://localhost:8000`.
 
 Some browser features and local JSON fetches may behave differently when the HTML file is opened directly with `file://`; a local server is recommended.
@@ -49,6 +37,7 @@ Automated content can be incomplete or inaccurate. Check the source links and ve
 - Clearing site/browser data can remove local records. Export manual CA questions if you want a backup.
 - The Current Affairs feed and linked news websites need an internet connection.
 - Do not enter passwords, private information, or sensitive personal data into practice fields.
+- To add any question enter the password '22May_1Sep'
 
 ## Project structure
 
@@ -65,15 +54,6 @@ T7_Defense_IQ_Prep_V2.1/
 ├── .github/workflows/daily-current-affairs.yml
 └── README.md
 ```
-
-## GitHub publishing checklist
-
-- [ ] Review `current-affairs.json` for stale or incorrect questions.
-- [ ] Keep API keys in GitHub Actions secrets; never commit `.env` files or real secrets.
-- [ ] Test the site on desktop and mobile after publishing.
-- [ ] Check the browser console for JavaScript errors.
-- [ ] Verify the Current Affairs entry card, Back button, always-visible News Reading Desk, manual editor, and practice submission.
-- [ ] Update this README when scripts, secrets, or workflows change.
 
 ## License
 
