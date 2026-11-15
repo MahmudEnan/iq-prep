@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-15T06:41:12.224Z",
-  "total": 15,
+  "updatedAt": "2026-11-15T18:54:41.828Z",
+  "total": 12,
   "questions": [
+    {
+      "id": "ca-616904d6854b8d48d4cf",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: What’s happening this week in economics? Deloitte",
+      "options": [
+        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica",
+        "International Telecommunication Union sets the global direction for digital technologies - Ulkoministeriö",
+        "What’s happening this week in economics? - Deloitte",
+        "SBI Clerk & IBPS Clerk Mains 2026: Check These Repeated GA Topics from PO Mains Exams - Bankersadda"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-15T18:54:41.828Z",
+      "verifiedAt": "2026-11-15T18:54:41.828Z",
+      "expiresAt": "2026-11-18T18:54:41.828Z"
+    },
+    {
+      "id": "ca-4b7f540b32e68fe4c59c",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: International Telecommunication Union sets the global direction for digital technologies Ulkoministeriö",
+      "options": [
+        "International Telecommunication Union sets the global direction for digital technologies - Ulkoministeriö",
+        "Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? - THE WEEK",
+        "What’s happening this week in economics? - Deloitte",
+        "News Analysis 10 November 2026 | Latest News & Current Affairs - Drishti IAS"
+      ],
+      "answer": 0,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa2RmbFVlRzVxZ1dxdjBMOXAwSnBNTFlGcTlYUmtIRm41R0dkdXRzV0hiQkdFaTdCd0ZBZ2tCMTVEc1ZqemRWT2FnNGppRGl5eFF5WmE5Y05FbDVUUzFvS1NSNjAxUnMwTWNhZ2xpb1gxRjVOYVhGZUhUQ2xlTjdVWVlvV0dZQldnUzJYZHl1Y1dieDZfc1lpS2hWSGkxb1dsUXNBOG9ybDl5Ry10UWxObjFTdk1KNkRaNkZpS2tzU2VsdXB1VXNxTHBNSWQ2MVFNVTRIRnJ4dk16WkpvSEV0YjVLTHlTSFFCNi1GT0VxRk80UGFlM1E?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-15T18:54:41.828Z",
+      "verifiedAt": "2026-11-15T18:54:41.828Z",
+      "expiresAt": "2026-11-18T18:54:41.828Z"
+    },
     {
       "id": "ca-f72434570dce9bf984ed",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: News Analysis 10 November 2026 | Latest News & Current Affairs Drishti IAS",
@@ -181,96 +217,6 @@
       "createdAt": "2026-11-12T19:59:16.117Z",
       "verifiedAt": "2026-11-12T19:59:16.117Z",
       "expiresAt": "2026-11-15T19:59:16.117Z"
-    },
-    {
-      "id": "ca-7c365aef1740d6f6e7b8",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 12: Top national, sports and world news curated for you India Today",
-      "options": [
-        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
-        "Positive response to AI data centre in Bangladesh, AIDCQ delegation coming in December - Jagonews24",
-        "What’s happening this week in economics? - Deloitte",
-        "School assembly news headlines today- November 12: Top national, sports and world news curated for you - India Today"
-      ],
-      "answer": 3,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcWttVG9WRmdWRFlCVG8tWWU5b0VPSXBZbVJWbU9BNFVrUUx4WFVLZWdQTDRldWR4WG9hdnozTlJfQnRyd0UtWFNxbHVIVENpMHFIZWdETzNtVEJWN051UUw5cTNlQ3c3cGdiMWllR3dNTUtTdl9QZVNFUUlnTko0R3ZNdVd1aF9tMDBVaU1KcWk1WlRmQlEyVXZ2WFdpTFQ5MXpjbF80SVRmcTlxR0ZoYUpzbHV2cXdSWmozbTJweDR6Tk9yY3pqdmthZlVsMkx4MFhyV0gyTXg3TnJKenY3Z2I0WG0xNW8?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-12T07:18:16.244Z",
-      "verifiedAt": "2026-11-12T07:18:16.244Z",
-      "expiresAt": "2026-11-15T07:18:16.244Z"
-    },
-    {
-      "id": "ca-4b7f540b32e68fe4c59c",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: International Telecommunication Union sets the global direction for digital technologies Ulkoministeriö",
-      "options": [
-        "International Telecommunication Union sets the global direction for digital technologies - Ulkoministeriö",
-        "Top 10 Current Affairs October 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
-        "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh - RFI",
-        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal"
-      ],
-      "answer": 0,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa2RmbFVlRzVxZ1dxdjBMOXAwSnBNTFlGcTlYUmtIRm41R0dkdXRzV0hiQkdFaTdCd0ZBZ2tCMTVEc1ZqemRWT2FnNGppRGl5eFF5WmE5Y05FbDVUUzFvS1NSNjAxUnMwTWNhZ2xpb1gxRjVOYVhGZUhUQ2xlTjdVWVlvV0dZQldnUzJYZHl1Y1dieDZfc1lpS2hWSGkxb1dsUXNBOG9ybDl5Ry10UWxObjFTdk1KNkRaNkZpS2tzU2VsdXB1VXNxTHBNSWQ2MVFNVTRIRnJ4dk16WkpvSEV0YjVLTHlTSFFCNi1GT0VxRk80UGFlM1E?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-12T07:18:16.244Z",
-      "verifiedAt": "2026-11-12T07:18:16.244Z",
-      "expiresAt": "2026-11-15T07:18:16.244Z"
-    },
-    {
-      "id": "ca-616904d6854b8d48d4cf",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: What’s happening this week in economics? Deloitte",
-      "options": [
-        "International Telecommunication Union sets the global direction for digital technologies - Ulkoministeriö",
-        "Positive response to AI data centre in Bangladesh, AIDCQ delegation coming in December - Jagonews24",
-        "What’s happening this week in economics? - Deloitte",
-        "Top 10 Current Affairs October 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal"
-      ],
-      "answer": 2,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-12T07:18:16.244Z",
-      "verifiedAt": "2026-11-12T07:18:16.244Z",
-      "expiresAt": "2026-11-15T07:18:16.244Z"
-    },
-    {
-      "id": "ca-207accb535cccc76a996",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams Finology Legal",
-      "options": [
-        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
-        "What’s happening this week in economics? - Deloitte",
-        "School assembly news headlines today- November 12: Top national, sports and world news curated for you - India Today",
-        "Positive response to AI data centre in Bangladesh, AIDCQ delegation coming in December - Jagonews24"
-      ],
-      "answer": 0,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmg3dExScXVZb2hUS3hzaE1MUlFqckVSNzdCaEYyc1FwN0F3S2ZXbHJwYUZlc3piRzJ3SHB6cjEzTHR3YTloNGtnQ01rQmxiS1NwZmpiNEQ5ZHZ5NV9FdVU5N2tlUnFDTkVyclh3Y3poNHhBdXVDMnFabDE5d3RGYg?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-12T07:18:16.244Z",
-      "verifiedAt": "2026-11-12T07:18:16.244Z",
-      "expiresAt": "2026-11-15T07:18:16.244Z"
-    },
-    {
-      "id": "ca-d778a12a1d6ea2a90f8d",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Top 10 Current Affairs October 2026 for UPSC, SSC, Banking & Other Competitive Exams Finology Legal",
-      "options": [
-        "School assembly news headlines today- November 12: Top national, sports and world news curated for you - India Today",
-        "Positive response to AI data centre in Bangladesh, AIDCQ delegation coming in December - Jagonews24",
-        "Top 10 Current Affairs September 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal",
-        "Top 10 Current Affairs October 2026 for UPSC, SSC, Banking & Other Competitive Exams - Finology Legal"
-      ],
-      "answer": 3,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2dUowTlBndU94SUtXUDhzaVJRSjdKOUFqYjlVbFUwdUhKb01TY3Nld2RmWU1QVjl4UTFvYXpWZG1xcUdHUEZkSU1PUFBja0kxQ2ZXWU9Uc20xY29fSTBZQWJfenlsbU5zdHNFaWU3N1U5Z3FRUWxVZ2Q3UTMzdw?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-12T07:18:16.244Z",
-      "verifiedAt": "2026-11-12T07:18:16.244Z",
-      "expiresAt": "2026-11-15T07:18:16.244Z"
     }
   ]
 }
