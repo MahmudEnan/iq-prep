@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-14T22:29:36.530Z",
-  "total": 14,
+  "updatedAt": "2026-11-15T06:41:12.224Z",
+  "total": 15,
   "questions": [
+    {
+      "id": "ca-f72434570dce9bf984ed",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: News Analysis 10 November 2026 | Latest News & Current Affairs Drishti IAS",
+      "options": [
+        "What’s happening this week in economics? - Deloitte",
+        "Bangladesh seeks fair climate tech access, ‘fair’ energy transition - Yeni Safak English",
+        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica",
+        "News Analysis 10 November 2026 | Latest News & Current Affairs - Drishti IAS"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT2RQVVJkS3EyUWJWSUZuVElNbVNDUGdhbTlZdS1ORUlUVFd5NS1DTzE5SkphZWEwNWVkelVYZERDS3NSeFVIeGV6NkxwR3JrWDNjQTFfWWRNWEVqbW8yc2VrZEN1QVBRNmxnQmczMDlPMHN5TUQ2OFVIekxRZDVjQmdxdEhZaEt2b21IbWx2RXU2Z1h6ejlF?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-15T06:41:12.224Z",
+      "verifiedAt": "2026-11-15T06:41:12.224Z",
+      "expiresAt": "2026-11-18T06:41:12.224Z"
+    },
     {
       "id": "ca-869fc6856b716103dea1",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh RFI",
