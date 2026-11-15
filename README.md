@@ -27,7 +27,7 @@ The workflow in `.github/workflows/daily-current-affairs.yml` runs the updater i
 - Clearing site/browser data can remove local records. Export manual CA questions if you want a backup.
 - The Current Affairs feed and linked news websites need an internet connection.
 - Do not enter passwords, private information, or sensitive personal data into practice fields.
-- To add any question enter the password '22May_1Sep'
+- To add any question enter the password `22May_1Sep`
 
 ## Project structure
 
@@ -47,4 +47,4 @@ T7_Defense_IQ_Prep_V2.1/
 
 ## License
 
-No license is specified in this repository, as it's free for all.'please give star for making it free'.
+No license is specified in this repository, as it's free for all. `please give star for making it free`.
