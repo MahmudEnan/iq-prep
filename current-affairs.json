@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-16T06:38:36.606Z",
-  "total": 12,
+  "updatedAt": "2026-11-16T22:11:43.458Z",
+  "total": 11,
   "questions": [
+    {
+      "id": "ca-b141ad67fbbd3faa439c",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Are we heading for a Third World War? The Times",
+      "options": [
+        "School assembly news headlines today- November 16: Top national, sports and world news curated for you - India Today",
+        "What’s happening this week in economics? - Deloitte",
+        "Are we heading for a Third World War? - The Times",
+        "Muhammad Yunus - Britannica"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc1I1TEloSEJySGxQMGs3NFJ0OHpVX1M3MEtTRFAzNm9CaGw4VEZnY2E1QmlwWTMtdzhheXM1eFBtZHVGQ3BRbXoyeWczMDFIX1B5QlhMT1JWbXFWcWhSeHJHcElhUG9EYUlGZWl3VnZXRlk0SWNXajJnMlNSLVIzeTdHLU5FbHpXZ1BLV29rTEpCdFlVUnZlMEstd1JTU1VIZmhDZm9NVkdWa1doS05XdG9ISVpnczVDeEhYV0plbFNsaFNsWmxvTVhqcnNEYV9yUTRpQjJ6QzktWGpYaFVINDZpMGg?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-16T22:11:43.458Z",
+      "verifiedAt": "2026-11-16T22:11:43.458Z",
+      "expiresAt": "2026-11-19T22:11:43.458Z"
+    },
+    {
+      "id": "ca-bf19dd99f63aea2cf515",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Muhammad Yunus Britannica",
+      "options": [
+        "What’s happening this week in economics? - Deloitte",
+        "Are we heading for a Third World War? - The Times",
+        "School assembly news headlines today- November 16: Top national, sports and world news curated for you - India Today",
+        "Muhammad Yunus - Britannica"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91SEtxSjNrUUJ5TjNvb2xIVkk3VndkWnR0MDZNQ3RwMjRJbTVZanhvN1Mtay00ZXl6RGZuUUl4Ty1nbGhyOGdpM1hId0tRM2xGem1RMW5wb0xKNXM?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-16T22:11:43.458Z",
+      "verifiedAt": "2026-11-16T22:11:43.458Z",
+      "expiresAt": "2026-11-19T22:11:43.458Z"
+    },
     {
       "id": "ca-d64c7c639a33df2224aa",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 16: Top national, sports and world news curated for you India Today",
@@ -163,60 +199,6 @@
       "createdAt": "2026-11-14T06:32:00.458Z",
       "verifiedAt": "2026-11-14T06:32:00.458Z",
       "expiresAt": "2026-11-17T06:32:00.458Z"
-    },
-    {
-      "id": "ca-7ed45b974bda3b18783d",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 14: Top national, sports and world news curated for you India Today",
-      "options": [
-        "International Telecommunication Union sets the global direction for digital technologies - Ulkoministeriö",
-        "Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates - Careers360",
-        "Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? - THE WEEK",
-        "School assembly news headlines today- November 14: Top national, sports and world news curated for you - India Today"
-      ],
-      "answer": 3,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN0RtRVlTZW1Lci1Bb2p1Q1pSX1d5UGRVbFh0amx3VDJfejNMNTROVUFRQ01PUEV2SkRNSW1UTjBXWFplajUxM2dTYlFWSWxURkxVdlZFQnJFRUZpVGtTakhlZUg1S2NGeVhtSE1saXk3VW9PN2YxS2xxNnpxdkVMOVNtLTZEVlUwZ3c4eDN4SFF0eUczZThkY0doRDRReU9YRHVyQnQ5UW90SzBpOTJLU1V1Vk1fOUV3MGdMV2ZnNzFwcUxlTnpGcHB5bWtTSTl2dXNrQUt0a1piVnJuYi1jTUJUbG1LNnc?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-13T19:46:58.189Z",
-      "verifiedAt": "2026-11-13T19:46:58.189Z",
-      "expiresAt": "2026-11-16T19:46:58.189Z"
-    },
-    {
-      "id": "ca-8e1499fae59d4d3112e4",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: SBI Clerk & IBPS Clerk Mains 2026: Check These Repeated GA Topics from PO Mains Exams Bankersadda",
-      "options": [
-        "SBI Clerk & IBPS Clerk Mains 2026: Check These Repeated GA Topics from PO Mains Exams - Bankersadda",
-        "International Telecommunication Union sets the global direction for digital technologies - Ulkoministeriö",
-        "Key questions on fugitive ex-PM Hasina's vow to return to Bangladesh - RFI",
-        "Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? - THE WEEK"
-      ],
-      "answer": 0,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONHdLeVBaWEZrbE1SeXZIeDdKclNSMWQ4VERiNFJnTHJxZDBUcDRMNzVtajlnc0xDLXFheGJtWlhhLTVfb0VDdnh3dHNhMHBLY25vaWxQOERQNktIemVrQVlmQlRQTWdmMWYzdXFFR0FVNl9WaGo3MFE2cm5sM1hJX0Z5VEZQamZjbFJrRlRuV1FVZ2VsT1NKdTY1X3JKbWJxUi1WdDFZU2V5NnR3M3R4dQ?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-13T19:46:58.189Z",
-      "verifiedAt": "2026-11-13T19:46:58.189Z",
-      "expiresAt": "2026-11-16T19:46:58.189Z"
-    },
-    {
-      "id": "ca-1c67cab8f626b2f67216",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates Careers360",
-      "options": [
-        "What’s happening this week in economics? - Deloitte",
-        "Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates - Careers360",
-        "School assembly news headlines today- November 14: Top national, sports and world news curated for you - India Today",
-        "Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? - THE WEEK"
-      ],
-      "answer": 1,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE92U2JWUGdMd1ZxLUZmMGluXzJqX3FKb2Q1OEVEVlllWXpraW91enkwaVFwcU5ob0pCU2lGZnpnaE5xRy1EeVkxWWVkNGJxeXJZbnJMcHdjQU1qR0xTZ3pBcXhpWWVQMUNoSThzRFhrMTU3UQ?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-13T19:46:58.189Z",
-      "verifiedAt": "2026-11-13T19:46:58.189Z",
-      "expiresAt": "2026-11-16T19:46:58.189Z"
     }
   ]
 }
