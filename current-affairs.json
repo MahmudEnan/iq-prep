@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-16T22:11:43.458Z",
+  "updatedAt": "2026-11-17T07:59:42.791Z",
   "total": 11,
   "questions": [
+    {
+      "id": "ca-810c068e1c7dfcbf1c64",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 17: Top national, sports and world news curated for you India Today",
+      "options": [
+        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica",
+        "School assembly news headlines today- November 17: Top national, sports and world news curated for you - India Today",
+        "What’s happening this week in economics? - Deloitte",
+        "Are we heading for a Third World War? - The Times"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPb2pwdWlNd1J0eTlLQ0NSaTFDcjVLUERaSUhQMEJiUExHMk1TN1BlR3pwdUdoVW9MRDdsMlA2dHY5Y2Z5N0VRbjdCbFZGaVJjZnE0WGwtTWZpNzdaT3R5Y01Ld3NpUmprd3Z6dFNITW9NWDFodTV1WXZoQWhsME9UY09zWHJSVTczY0ZMZEtqS2NfMTVsTmp4X052bmNNOUdLQ2lYQmRaWmgxWnFTbXE1b3VyTkRoV29qXzhqbWlzYVJSdmVPR1VoekxQM0c5WDZRX3owZEhxQmpDc3c3ak1vOXJXbC1yUmM?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-17T07:59:42.791Z",
+      "verifiedAt": "2026-11-17T07:59:42.791Z",
+      "expiresAt": "2026-11-20T07:59:42.791Z"
+    },
+    {
+      "id": "ca-1c67cab8f626b2f67216",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates Careers360",
+      "options": [
+        "What’s happening this week in economics? - Deloitte",
+        "Are we heading for a Third World War? - The Times",
+        "Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates - Careers360",
+        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE92U2JWUGdMd1ZxLUZmMGluXzJqX3FKb2Q1OEVEVlllWXpraW91enkwaVFwcU5ob0pCU2lGZnpnaE5xRy1EeVkxWWVkNGJxeXJZbnJMcHdjQU1qR0xTZ3pBcXhpWWVQMUNoSThzRFhrMTU3UQ?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-17T07:59:42.791Z",
+      "verifiedAt": "2026-11-17T07:59:42.791Z",
+      "expiresAt": "2026-11-20T07:59:42.791Z"
+    },
     {
       "id": "ca-b141ad67fbbd3faa439c",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Are we heading for a Third World War? The Times",
@@ -163,42 +199,6 @@
       "createdAt": "2026-11-14T18:10:40.348Z",
       "verifiedAt": "2026-11-14T18:10:40.348Z",
       "expiresAt": "2026-11-17T18:10:40.348Z"
-    },
-    {
-      "id": "ca-f3e551bd68f953c9f3ea",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Bangladesh seeks fair climate tech access, ‘fair’ energy transition Yeni Safak English",
-      "options": [
-        "International Telecommunication Union sets the global direction for digital technologies - Ulkoministeriö",
-        "Bangladesh seeks fair climate tech access, ‘fair’ energy transition - Yeni Safak English",
-        "SBI Clerk & IBPS Clerk Mains 2026: Check These Repeated GA Topics from PO Mains Exams - Bankersadda",
-        "School assembly news headlines today- November 14: Top national, sports and world news curated for you - India Today"
-      ],
-      "answer": 1,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh government economy science sports\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU3Zfb3ZGQ3hacWFfRk5aV0lCOExKbWpsZ19Ya0hrUTQ4cEV0SG9sY1hUMFJBT2ZrZ0QyN1E3dy1rTWtmX0thY0hIM0JTc09HZC1uc0FJZ2s0LVNTM3JfU3p6dXl0ak5TcE13a055UzNOU24tQVhlLUxHRnB3RGNxMmtJWEExOTlOeEVRWXhSSWk5TDVNTU5NbzVJRmh0SnpPNk5uX3h3?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-14T06:32:00.458Z",
-      "verifiedAt": "2026-11-14T06:32:00.458Z",
-      "expiresAt": "2026-11-17T06:32:00.458Z"
-    },
-    {
-      "id": "ca-74d672939ba38e5e0265",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? THE WEEK",
-      "options": [
-        "SBI Clerk & IBPS Clerk Mains 2026: Check These Repeated GA Topics from PO Mains Exams - Bankersadda",
-        "What’s happening this week in economics? - Deloitte",
-        "Sheikh Hasina wants to return to Bangladesh, but is there a way back for the ousted former PM? - THE WEEK",
-        "School assembly news headlines today- November 14: Top national, sports and world news curated for you - India Today"
-      ],
-      "answer": 2,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOTF6b003OE82Yk1lcTNFczNIWkJvUE5aVlBIWDZZS1VEWFFvRWp4bjFjM2FwUGt4RjJxZWdXTmRXT2liU29aS01TM1ZTQW1UX0pldEpPYUdJTWMxbEFUNlhBSEp0LUF5R2VaRmpvUkdxYjFqUmU0QlRhVnc1VnlUdmViMzNHZmNmWmpSeVd3VXZWaFdFWTd2allQam9zcVF3aW5zdXNBNlc0SjdGRklmV0hMZVo4ck5Vby1ZTU5tY3pkSHRrOGpEUWhzemNzdVY4Zm1FanYteG9mbnlGTHI4ejVkMzVNcUZPVkE?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-14T06:32:00.458Z",
-      "verifiedAt": "2026-11-14T06:32:00.458Z",
-      "expiresAt": "2026-11-17T06:32:00.458Z"
     }
   ]
 }
