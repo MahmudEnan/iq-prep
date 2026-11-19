@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-18T20:37:07.503Z",
-  "total": 9,
+  "updatedAt": "2026-11-19T07:31:59.598Z",
+  "total": 8,
   "questions": [
     {
       "id": "ca-6805982235951280d641",
@@ -145,24 +145,6 @@
       "createdAt": "2026-11-16T22:11:43.458Z",
       "verifiedAt": "2026-11-16T22:11:43.458Z",
       "expiresAt": "2026-11-19T22:11:43.458Z"
-    },
-    {
-      "id": "ca-d64c7c639a33df2224aa",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 16: Top national, sports and world news curated for you India Today",
-      "options": [
-        "What’s happening this week in economics? - Deloitte",
-        "School assembly news headlines today- November 16: Top national, sports and world news curated for you - India Today",
-        "News Analysis 10 November 2026 | Latest News & Current Affairs - Drishti IAS",
-        "SBI Clerk & IBPS Clerk Mains 2026: Check These Repeated GA Topics from PO Mains Exams - Bankersadda"
-      ],
-      "answer": 1,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORXVvdFZQMEVqd1hrWmcwRGtWTnVYS042RlJySzh2aUJoU2ZxbVJEdWt1WkREMkRoS0cwVnNaUUxLTHk3cnpxZ0F1dFpLREJRTmxxN1FESDAwWGhKN043N3JhRjJWWWJMRlk0dVdDYktXR29scXo1R19kZ01qMGU5M3BjeWV4WTNQMGtNaTRVemMyS3BsMjFaQ28zbU9rVW82akluYklwWlN6N010bDA1ZDRmbUJKOGRDZGo0NFN4WW1QNV9OREllLWVTSERGRDM3NnFRMzRIU1dla1BpTE5sR2JaZ1paTnM?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-16T06:38:36.606Z",
-      "verifiedAt": "2026-11-16T06:38:36.606Z",
-      "expiresAt": "2026-11-19T06:38:36.606Z"
     }
   ]
 }
