@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-11-19T07:31:59.598Z",
-  "total": 8,
+  "updatedAt": "2026-11-19T20:42:56.082Z",
+  "total": 11,
   "questions": [
+    {
+      "id": "ca-cb99f20c026466c7e00d",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Bangladesh to Launch Homegrown Satellite Within Three Years, Says PM Daily Voice Of Asia",
+      "options": [
+        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today",
+        "Tarique pledges to put satellite built by Bangladeshis into orbit in three years - bdnews24.com",
+        "Bangladesh to Launch Homegrown Satellite Within Three Years, Says PM - Daily Voice Of Asia",
+        "Homegrown satellite to be launched within 3 years: PM - The Bangladesh Today"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1VIRDFDQ2g0NF9qckhCQTJSc2wtRXNfdkNvZUszZlZBV1l1X2tHZ2g1WHdyRlIxVjlybzVHYnl6a1RSaHVtaktkTVhTeG9ld0lBX1VYemZJYUk1dWxZbTZzbFFERzNjRjRRUHpFNVd6Q29TZDg4dS1ZTDRrel9weVFBQWhBNmZZUEFLM0w0V0JGX2N4Z1BGb1Z3cUc0QU5FQ2xySXBR?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-19T20:42:56.082Z",
+      "verifiedAt": "2026-11-19T20:42:56.082Z",
+      "expiresAt": "2026-11-22T20:42:56.082Z"
+    },
+    {
+      "id": "ca-520a123431ad84fb6458",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Homegrown satellite to be launched within 3 years: PM The Bangladesh Today",
+      "options": [
+        "Tarique pledges to put satellite built by Bangladeshis into orbit in three years - bdnews24.com",
+        "Homegrown satellite to be launched within 3 years: PM - The Bangladesh Today",
+        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today",
+        "Bangladesh to Launch Homegrown Satellite Within Three Years, Says PM - Daily Voice Of Asia"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92OW0wS1Z5akozWHo5NkRSeE1pUnI4Z0lBWVVoZkVvT3FFS0w5OWdmb0lIc2RoZlJwaEFqNlJCVjVoT3Y1U1dHODZFOGJaTDRCeGx6RkJwSHVLSDdoTkVRd1YyYXA5bGIzYlE?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-19T20:42:56.082Z",
+      "verifiedAt": "2026-11-19T20:42:56.082Z",
+      "expiresAt": "2026-11-22T20:42:56.082Z"
+    },
+    {
+      "id": "ca-d9e449f4ef08f32a2961",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Tarique pledges to put satellite built by Bangladeshis into orbit in three years bdnews24.com",
+      "options": [
+        "Bangladesh to Launch Homegrown Satellite Within Three Years, Says PM - Daily Voice Of Asia",
+        "Tarique pledges to put satellite built by Bangladeshis into orbit in three years - bdnews24.com",
+        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today",
+        "Homegrown satellite to be launched within 3 years: PM - The Bangladesh Today"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBycXVZUk9YN0VWc3M0MGh3TU9rWjhPVXZhOW43dkVZa0dtaVZjRzJfVG1fSnE3cE1qdmJoMWpHTDBJQ3EyaURtcWlpWHZlYVZQUnV6LQ?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-19T20:42:56.082Z",
+      "verifiedAt": "2026-11-19T20:42:56.082Z",
+      "expiresAt": "2026-11-22T20:42:56.082Z"
+    },
     {
       "id": "ca-6805982235951280d641",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 19: Top national, sports and world news curated for you India Today",
