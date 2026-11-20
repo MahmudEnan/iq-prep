@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-19T20:42:56.082Z",
-  "total": 11,
+  "updatedAt": "2026-11-20T07:23:57.161Z",
+  "total": 10,
   "questions": [
+    {
+      "id": "ca-5b6615ab33de1550dae2",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 20: Top national, sports and world news curated for you India Today",
+      "options": [
+        "Monthly Current Affairs August 2026 For UPSC Prelims and Mains - Vajiram & Ravi",
+        "School assembly news headlines today- November 20: Top national, sports and world news curated for you - India Today",
+        "Tarique pledges to put satellite built by Bangladeshis into orbit in three years - bdnews24.com",
+        "Homegrown satellite to be launched within 3 years: PM - The Bangladesh Today"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR3o3ZTR0VV9WOEwyZi1YdnZ0Z2ZYazlDalRiLVgwSzhIUGtpR0RZMmJvSXp2UVc1c3NaQXZOOHhETmJ3QnZabEc2b09vMGJ4cnhmWW9vM3Z2RjlpdVpseG10QlEyS3VMZ0o3cWRZTGlzUExHSlJCMy16eHlBTTFhakQzX3QtZmVnRmcwZGdzaEhrTDNlckhUVzhqaFVXS2tPR3diZV9hLUZPR1U3RVJfRFVENWNlTlZuXzIwejM5U3o4blRHOHVHZTdLUmZnMHJLTnBJNm5zYzU5VE04VlY1amZ2cTVuMzQ?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-20T07:23:57.161Z",
+      "verifiedAt": "2026-11-20T07:23:57.161Z",
+      "expiresAt": "2026-11-23T07:23:57.161Z"
+    },
     {
       "id": "ca-cb99f20c026466c7e00d",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Bangladesh to Launch Homegrown Satellite Within Three Years, Says PM Daily Voice Of Asia",
@@ -163,42 +181,6 @@
       "createdAt": "2026-11-17T07:59:42.791Z",
       "verifiedAt": "2026-11-17T07:59:42.791Z",
       "expiresAt": "2026-11-20T07:59:42.791Z"
-    },
-    {
-      "id": "ca-b141ad67fbbd3faa439c",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Are we heading for a Third World War? The Times",
-      "options": [
-        "School assembly news headlines today- November 16: Top national, sports and world news curated for you - India Today",
-        "What’s happening this week in economics? - Deloitte",
-        "Are we heading for a Third World War? - The Times",
-        "Muhammad Yunus - Britannica"
-      ],
-      "answer": 2,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc1I1TEloSEJySGxQMGs3NFJ0OHpVX1M3MEtTRFAzNm9CaGw4VEZnY2E1QmlwWTMtdzhheXM1eFBtZHVGQ3BRbXoyeWczMDFIX1B5QlhMT1JWbXFWcWhSeHJHcElhUG9EYUlGZWl3VnZXRlk0SWNXajJnMlNSLVIzeTdHLU5FbHpXZ1BLV29rTEpCdFlVUnZlMEstd1JTU1VIZmhDZm9NVkdWa1doS05XdG9ISVpnczVDeEhYV0plbFNsaFNsWmxvTVhqcnNEYV9yUTRpQjJ6QzktWGpYaFVINDZpMGg?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-16T22:11:43.458Z",
-      "verifiedAt": "2026-11-16T22:11:43.458Z",
-      "expiresAt": "2026-11-19T22:11:43.458Z"
-    },
-    {
-      "id": "ca-bf19dd99f63aea2cf515",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Muhammad Yunus Britannica",
-      "options": [
-        "What’s happening this week in economics? - Deloitte",
-        "Are we heading for a Third World War? - The Times",
-        "School assembly news headlines today- November 16: Top national, sports and world news curated for you - India Today",
-        "Muhammad Yunus - Britannica"
-      ],
-      "answer": 3,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh government economy science sports\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91SEtxSjNrUUJ5TjNvb2xIVkk3VndkWnR0MDZNQ3RwMjRJbTVZanhvN1Mtay00ZXl6RGZuUUl4Ty1nbGhyOGdpM1hId0tRM2xGem1RMW5wb0xKNXM?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-16T22:11:43.458Z",
-      "verifiedAt": "2026-11-16T22:11:43.458Z",
-      "expiresAt": "2026-11-19T22:11:43.458Z"
     }
   ]
 }
