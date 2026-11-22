@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-21T19:21:26.134Z",
-  "total": 10,
+  "updatedAt": "2026-11-22T06:56:59.204Z",
+  "total": 8,
   "questions": [
+    {
+      "id": "ca-240f16b7d2e02fcc5b33",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 Utkarsh Classes",
+      "options": [
+        "India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 - Utkarsh Classes",
+        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today",
+        "Homegrown satellite to be launched within 3 years: PM - The Bangladesh Today",
+        "Tarique pledges to put satellite built by Bangladeshis into orbit in three years - bdnews24.com"
+      ],
+      "answer": 0,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0pNd1dFQmxzOWNoWlBFNFJaLW5NMDk5aUFTQ2FJREREbHQ3emRIZmxkTURSTno5dl96c245RE0zX3RaejFEejJray1tRjdSMDJkczB5ZXNWaVJiWWstRDZBYS1XUm5laU4tcFBWeEtMSmxRcm5ORzZQVFlSQmlMVGZoanF0Yzk0RkNmYkQwdjExWUdubXJpOWREUGd4ZHV3S2ZFM1RFTmFTNDBhc0UzN24tTUVqVkdDa0xZNGlSUlNsckRCSGRV?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-22T06:56:59.204Z",
+      "verifiedAt": "2026-11-22T06:56:59.204Z",
+      "expiresAt": "2026-11-25T06:56:59.204Z"
+    },
+    {
+      "id": "ca-5ea91df8e8c88375a4df",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Rooppur Unit 1 Connects to Bangladesh’s National Grid GK Today",
+      "options": [
+        "Homegrown satellite to be launched within 3 years: PM - The Bangladesh Today",
+        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today",
+        "India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 - Utkarsh Classes",
+        "Bangladesh to Launch Homegrown Satellite Within Three Years, Says PM - Daily Voice Of Asia"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWUhURXREOTYxOFk2NDllUWc1Nk1Ta0FreFUzU3hmMEwzRTFoNThxbkFER3FyaGNKWjRNZ1BhUTdYY1FqVFB6ODdILVpPcTlaelVoZEtGT3JfQ1JPTEpEMnQybUNFQzA4Z1JURkU5emlwOENXcXZzSDNsX3JHTEN3Mk1B?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-22T06:56:59.204Z",
+      "verifiedAt": "2026-11-22T06:56:59.204Z",
+      "expiresAt": "2026-11-25T06:56:59.204Z"
+    },
     {
       "id": "ca-f0156133ae4319c665f0",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 21: Top national, sports and world news curated for you India Today",
@@ -109,78 +145,6 @@
       "createdAt": "2026-11-19T20:42:56.082Z",
       "verifiedAt": "2026-11-19T20:42:56.082Z",
       "expiresAt": "2026-11-22T20:42:56.082Z"
-    },
-    {
-      "id": "ca-6805982235951280d641",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 19: Top national, sports and world news curated for you India Today",
-      "options": [
-        "Monthly Current Affairs August 2026 For UPSC Prelims and Mains - Vajiram & Ravi",
-        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica",
-        "School assembly news headlines today- November 19: Top national, sports and world news curated for you - India Today",
-        "Muhammad Yunus - Britannica"
-      ],
-      "answer": 2,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSmN2ZENiLTVmTVVEb3BHRm1vX1dJeWx2UXVuUDBPNWJQd2hBYVE0eXM1MVlOSDJtbjdhTmJEMEJ3Q19ob0xUdEJybVJfTDlEY19WTEktODBabzVWa1paU0hHZ0Z6RnVINDhFNXV1OTdNbVdxTmVzOGRwbWVfQUpvLTJ2WUxaWnlLV1BXN2ZSN3RraXJ2clVsYXBKcnM1d2k4UG1fQVlMbldlZ3NPLW15OW81cG1KeXBERzhPV2R2bktlRnNNR0RuRkNvX0hhWGNzQ093QTVXX3I0UW0wdFZFSzdYV0k1bjg?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-18T20:37:07.503Z",
-      "verifiedAt": "2026-11-18T20:37:07.503Z",
-      "expiresAt": "2026-11-21T20:37:07.503Z"
-    },
-    {
-      "id": "ca-5ea91df8e8c88375a4df",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Rooppur Unit 1 Connects to Bangladesh’s National Grid GK Today",
-      "options": [
-        "School assembly news headlines today- November 19: Top national, sports and world news curated for you - India Today",
-        "Monthly Current Affairs August 2026 For UPSC Prelims and Mains - Vajiram & Ravi",
-        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today",
-        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica"
-      ],
-      "answer": 2,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWUhURXREOTYxOFk2NDllUWc1Nk1Ta0FreFUzU3hmMEwzRTFoNThxbkFER3FyaGNKWjRNZ1BhUTdYY1FqVFB6ODdILVpPcTlaelVoZEtGT3JfQ1JPTEpEMnQybUNFQzA4Z1JURkU5emlwOENXcXZzSDNsX3JHTEN3Mk1B?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-18T20:37:07.503Z",
-      "verifiedAt": "2026-11-18T20:37:07.503Z",
-      "expiresAt": "2026-11-21T20:37:07.503Z"
-    },
-    {
-      "id": "ca-8ca56f102d3b4e8b75c9",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Monthly Current Affairs August 2026 For UPSC Prelims and Mains Vajiram & Ravi",
-      "options": [
-        "Monthly Current Affairs August 2026 For UPSC Prelims and Mains - Vajiram & Ravi",
-        "School assembly news headlines today- November 19: Top national, sports and world news curated for you - India Today",
-        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica",
-        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today"
-      ],
-      "answer": 0,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUHlfWmowQXVLMS1UYktIc1JfWUhDeUpud0RJYTBrS1JoZE9hclhLUTJ1cnpHY01QdlptREloMHJtVlJRV0lPRXQyc0JaMDU2ZHdneUF0Z25JQ1VHNllYQ19Wb3hXYVU1Mms5ZU9BQzlsOWVoWFRXSjFLMjVXTW1mSFJrTEllQQ?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-18T20:37:07.503Z",
-      "verifiedAt": "2026-11-18T20:37:07.503Z",
-      "expiresAt": "2026-11-21T20:37:07.503Z"
-    },
-    {
-      "id": "ca-9fdc713ce19596f45124",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Major Events of 2026 | Pop Culture, Current Events, News, & Timeline Britannica",
-      "options": [
-        "Monthly Current Affairs August 2026 For UPSC Prelims and Mains - Vajiram & Ravi",
-        "Muhammad Yunus - Britannica",
-        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today",
-        "Major Events of 2026 | Pop Culture, Current Events, News, & Timeline - Britannica"
-      ],
-      "answer": 3,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMVZwel9YMV84Q0U3RW1idDZoejFWUGI5MHM4aGVMWTRMUEthOFJvaEhLSmt2bUNkNkREbFFkVVNSV3FEZE1PN3huaWZ3cWR0dll0VjJxRmZNbGJOVVV5Qk5vMA?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-18T20:37:07.503Z",
-      "verifiedAt": "2026-11-18T20:37:07.503Z",
-      "expiresAt": "2026-11-21T20:37:07.503Z"
     }
   ]
 }
