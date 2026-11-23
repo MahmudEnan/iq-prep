@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-22T19:45:24.959Z",
-  "total": 8,
+  "updatedAt": "2026-11-23T07:46:31.375Z",
+  "total": 6,
   "questions": [
+    {
+      "id": "ca-b1e8f19986878701751f",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: The Economist’s Latest Warning Is an Ominous Sign The New Nation",
+      "options": [
+        "India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 - Utkarsh Classes",
+        "School assembly news headlines today- November 23: Top national, sports and world news curated for you - India Today",
+        "The Economist’s Latest Warning Is an Ominous Sign - The New Nation",
+        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQQnk3ZEp4QUZmS0RJa2hmYzhwTkFZLVhyUEd3aTZTVndBTnZUc2NRU0hhVlNMY1RYa1V5dHdVeEJDc0NQb01IMFRqbFJfNWM?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-23T07:46:31.375Z",
+      "verifiedAt": "2026-11-23T07:46:31.375Z",
+      "expiresAt": "2026-11-26T07:46:31.375Z"
+    },
+    {
+      "id": "ca-8c9cb139c5516befa179",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 23: Top national, sports and world news curated for you India Today",
+      "options": [
+        "The Economist’s Latest Warning Is an Ominous Sign - The New Nation",
+        "School assembly news headlines today- November 23: Top national, sports and world news curated for you - India Today",
+        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today",
+        "India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 - Utkarsh Classes"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeWU4TldtWUpIT00tTGZWVmthRDNNNW1MXzhNa19qNGp3c25zWjV4WVZ3MC1wbV9yR1MxN2RIZmVhcF9VNHRBRUlHQ3NGM0VWa2VEdzBqa2FVOWE2TFJkVjVQOXVLS1ZuX2MxNzRQSkhzc3ZGZGd4cWFleWxQT1hiQTB6LV9Rc25IbEY4ZThVTTN4QmFXN3lzQ1JaNDg4c3JtTjNfc1VSaTNrM2d3a0pDOUczV01iWFo0akRXRWRqaUxsNDdRczJfc1Z2LXl3c00zTDJuVkQyQllVMVVMYzhVMmFHUkJPQU0?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-23T07:46:31.375Z",
+      "verifiedAt": "2026-11-23T07:46:31.375Z",
+      "expiresAt": "2026-11-26T07:46:31.375Z"
+    },
     {
       "id": "ca-240f16b7d2e02fcc5b33",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 Utkarsh Classes",
@@ -73,78 +109,6 @@
       "createdAt": "2026-11-20T20:27:05.775Z",
       "verifiedAt": "2026-11-20T20:27:05.775Z",
       "expiresAt": "2026-11-23T20:27:05.775Z"
-    },
-    {
-      "id": "ca-5b6615ab33de1550dae2",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 20: Top national, sports and world news curated for you India Today",
-      "options": [
-        "Monthly Current Affairs August 2026 For UPSC Prelims and Mains - Vajiram & Ravi",
-        "School assembly news headlines today- November 20: Top national, sports and world news curated for you - India Today",
-        "Tarique pledges to put satellite built by Bangladeshis into orbit in three years - bdnews24.com",
-        "Homegrown satellite to be launched within 3 years: PM - The Bangladesh Today"
-      ],
-      "answer": 1,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR3o3ZTR0VV9WOEwyZi1YdnZ0Z2ZYazlDalRiLVgwSzhIUGtpR0RZMmJvSXp2UVc1c3NaQXZOOHhETmJ3QnZabEc2b09vMGJ4cnhmWW9vM3Z2RjlpdVpseG10QlEyS3VMZ0o3cWRZTGlzUExHSlJCMy16eHlBTTFhakQzX3QtZmVnRmcwZGdzaEhrTDNlckhUVzhqaFVXS2tPR3diZV9hLUZPR1U3RVJfRFVENWNlTlZuXzIwejM5U3o4blRHOHVHZTdLUmZnMHJLTnBJNm5zYzU5VE04VlY1amZ2cTVuMzQ?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-20T07:23:57.161Z",
-      "verifiedAt": "2026-11-20T07:23:57.161Z",
-      "expiresAt": "2026-11-23T07:23:57.161Z"
-    },
-    {
-      "id": "ca-cb99f20c026466c7e00d",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Bangladesh to Launch Homegrown Satellite Within Three Years, Says PM Daily Voice Of Asia",
-      "options": [
-        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today",
-        "Tarique pledges to put satellite built by Bangladeshis into orbit in three years - bdnews24.com",
-        "Bangladesh to Launch Homegrown Satellite Within Three Years, Says PM - Daily Voice Of Asia",
-        "Homegrown satellite to be launched within 3 years: PM - The Bangladesh Today"
-      ],
-      "answer": 2,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh government economy science sports\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1VIRDFDQ2g0NF9qckhCQTJSc2wtRXNfdkNvZUszZlZBV1l1X2tHZ2g1WHdyRlIxVjlybzVHYnl6a1RSaHVtaktkTVhTeG9ld0lBX1VYemZJYUk1dWxZbTZzbFFERzNjRjRRUHpFNVd6Q29TZDg4dS1ZTDRrel9weVFBQWhBNmZZUEFLM0w0V0JGX2N4Z1BGb1Z3cUc0QU5FQ2xySXBR?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-19T20:42:56.082Z",
-      "verifiedAt": "2026-11-19T20:42:56.082Z",
-      "expiresAt": "2026-11-22T20:42:56.082Z"
-    },
-    {
-      "id": "ca-520a123431ad84fb6458",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Homegrown satellite to be launched within 3 years: PM The Bangladesh Today",
-      "options": [
-        "Tarique pledges to put satellite built by Bangladeshis into orbit in three years - bdnews24.com",
-        "Homegrown satellite to be launched within 3 years: PM - The Bangladesh Today",
-        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today",
-        "Bangladesh to Launch Homegrown Satellite Within Three Years, Says PM - Daily Voice Of Asia"
-      ],
-      "answer": 1,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh government economy science sports\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92OW0wS1Z5akozWHo5NkRSeE1pUnI4Z0lBWVVoZkVvT3FFS0w5OWdmb0lIc2RoZlJwaEFqNlJCVjVoT3Y1U1dHODZFOGJaTDRCeGx6RkJwSHVLSDdoTkVRd1YyYXA5bGIzYlE?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-19T20:42:56.082Z",
-      "verifiedAt": "2026-11-19T20:42:56.082Z",
-      "expiresAt": "2026-11-22T20:42:56.082Z"
-    },
-    {
-      "id": "ca-d9e449f4ef08f32a2961",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Tarique pledges to put satellite built by Bangladeshis into orbit in three years bdnews24.com",
-      "options": [
-        "Bangladesh to Launch Homegrown Satellite Within Three Years, Says PM - Daily Voice Of Asia",
-        "Tarique pledges to put satellite built by Bangladeshis into orbit in three years - bdnews24.com",
-        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today",
-        "Homegrown satellite to be launched within 3 years: PM - The Bangladesh Today"
-      ],
-      "answer": 1,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh government economy science sports\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBycXVZUk9YN0VWc3M0MGh3TU9rWjhPVXZhOW43dkVZa0dtaVZjRzJfVG1fSnE3cE1qdmJoMWpHTDBJQ3EyaURtcWlpWHZlYVZQUnV6LQ?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-19T20:42:56.082Z",
-      "verifiedAt": "2026-11-19T20:42:56.082Z",
-      "expiresAt": "2026-11-22T20:42:56.082Z"
     }
   ]
 }
