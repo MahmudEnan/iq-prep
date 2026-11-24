@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-11-23T23:57:50.525Z",
-  "total": 5,
+  "updatedAt": "2026-11-24T09:59:11.743Z",
+  "total": 7,
   "questions": [
+    {
+      "id": "ca-b304f2ec98011d5928f0",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Try watching this video on www.youtube.com , or enable JavaScript if it is disabled in your browser. theweek.in",
+      "options": [
+        "The Economist’s Latest Warning Is an Ominous Sign - The New Nation",
+        "India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 - Utkarsh Classes",
+        "Sheikh Hasina seeks return to Bangladesh on December 16, asks for state carrier: Report | World News - Hindustan Times",
+        "Try watching this video on www.youtube.com , or enable JavaScript if it is disabled in your browser. - theweek.in"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUGdkdjRDVXduWHJaQW5GUGNlU2YwZ29HOFpaRkFUZzNzSkx4V1NwRWVScFZyQUtFTU9Ma0padXNtbUppQXZUaWktSDVBbXFXdUdld0xfZnZNOGNmcUhZVEFWVE40REFJZV80OTJqZm9Qb3FTS2p4c1dqdDQwZDBQSnYyLV9GZ1JsbTVHQkstVmRkdlJFY1BlOHZ1dkJyZXFuTTdqMXhZRXdkZmNsMVktdXJ3Zmdaa1JuUXpv?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-24T09:59:11.743Z",
+      "verifiedAt": "2026-11-24T09:59:11.743Z",
+      "expiresAt": "2026-11-27T09:59:11.743Z"
+    },
+    {
+      "id": "ca-f7bea42a7e86471adb78",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: ICT-wanted criminal Sheikh Hasina plans to return to Bangladesh on Dec. 16 Yeni Safak English",
+      "options": [
+        "Try watching this video on www.youtube.com , or enable JavaScript if it is disabled in your browser. - theweek.in",
+        "ICT-wanted criminal Sheikh Hasina plans to return to Bangladesh on Dec. 16 - Yeni Safak English",
+        "Sheikh Hasina seeks return to Bangladesh on December 16, asks for state carrier: Report | World News - Hindustan Times",
+        "India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 - Utkarsh Classes"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkkzSzdPY3ZoeDltRGpUZ3RhSnNSYzIyRXNLZFE1dzhxN1BVRUI5R182WkpWUkVETzhPNkZVNVd6MXphajg5SWR3bFdrV0JQWXZRanlzRktTa2M2d25GbVowYU5PRlhlWnlScDRDSms1LTI5Qlo0SGttWVFNeUJNSnltQnpRRFhUOTFxSHEtS05wbGtYUlduOG4wMkRMWHFkUjRVRTRsc201c2ZHajRWY2pn?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-24T09:59:11.743Z",
+      "verifiedAt": "2026-11-24T09:59:11.743Z",
+      "expiresAt": "2026-11-27T09:59:11.743Z"
+    },
+    {
+      "id": "ca-a265b8da8742cff5a83b",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Sheikh Hasina seeks return to Bangladesh on December 16, asks for state carrier: Report | World News Hindustan Times",
+      "options": [
+        "ICT-wanted criminal Sheikh Hasina plans to return to Bangladesh on Dec. 16 - Yeni Safak English",
+        "Try watching this video on www.youtube.com , or enable JavaScript if it is disabled in your browser. - theweek.in",
+        "Sheikh Hasina seeks return to Bangladesh on December 16, asks for state carrier: Report | World News - Hindustan Times",
+        "India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 - Utkarsh Classes"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbklla1pRVnVoakhqcEIzUlRGUC1NNlloNUluaVdMY2FvLUhsZEFXc2JwT1RMSUxNMFJvbWFReGVRdk10WjFpdFRUTUpJS0xhdm1ROURXWU42dnNxU0ZNMTJhNnFnZ0lqZEVvWkE3a2x1Rnp1bTUzbUZFYk4zUEZCbzVVWDRrMEdYNXNjWnlNZnRfOEs4MkI5ZFBxeEhqVjBBS0pPaVN4Nkt0TG00VjBvQ3lnWDVHNkF4OFZCMm4xM1hOajIzc0hVY3ozYnJGdzVIeU16bEVIZmJiWXZOWldRcElMNGlRWWfSAecBQVVfeXFMUG5JZWtaUVZ1aGpIanBCM1JURlAtTTZZaDVJbmlXTGNhby1IbGRBV3NicE9UTElMTTBSb21hUXhlUXZNdFoxaXRUVE1KSUtMYXZtUTlEV1lONnZzcVNGTTEyYTZxZ2dJamRFb1pBN2tsdUZ6dW01M21GRWJOM1BGQm81VVg0azBHWDVzY1p5TWZ0XzhLODJCOWRQcXhIalYwQUtKT2lTeDZLdExtNFYwb0N5Z1g1RzZBeDhWQjJuMTNYTmoyM3NIVWN6M2JyRnc1SHlNemxFSGZiYll2TlpXUXBJTDRpUVln?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-24T09:59:11.743Z",
+      "verifiedAt": "2026-11-24T09:59:11.743Z",
+      "expiresAt": "2026-11-27T09:59:11.743Z"
+    },
     {
       "id": "ca-b1e8f19986878701751f",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: The Economist’s Latest Warning Is an Ominous Sign The New Nation",
@@ -73,24 +127,6 @@
       "createdAt": "2026-11-22T06:56:59.204Z",
       "verifiedAt": "2026-11-22T06:56:59.204Z",
       "expiresAt": "2026-11-25T06:56:59.204Z"
-    },
-    {
-      "id": "ca-f0156133ae4319c665f0",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 21: Top national, sports and world news curated for you India Today",
-      "options": [
-        "Bangladesh to Launch Homegrown Satellite Within Three Years, Says PM - Daily Voice Of Asia",
-        "Tarique pledges to put satellite built by Bangladeshis into orbit in three years - bdnews24.com",
-        "School assembly news headlines today- November 21: Top national, sports and world news curated for you - India Today",
-        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today"
-      ],
-      "answer": 2,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWjBTVkh4T0IwUFBGMWpEcVliQm5DWUxNTUFPMkhicnpYRGV3NGljZ2J1MVBOVUpxUHZZb0hxa2hYbjNxV21rY2JFYjVKVHFQek9NRmEyNWd4dWRabkV3THhuaHZxdFpsbThyV1F3bkhhV3JYc3VWY1Rrazh0cjF1RjF5Z1JyWGg1OFVjb3J6THVtY0QzMUNxNm5ZYVlsWXZBVFJzTWVRRWJNLXk0ZWQwMG1jUlZXREZhWFZUYWNCYUEzQW5jWVdtOFEtb1dOMVo4YmZSdWJJRlV6a3dyWlZGSmNFb0lEenM?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-21T07:17:03.270Z",
-      "verifiedAt": "2026-11-21T07:17:03.270Z",
-      "expiresAt": "2026-11-24T07:17:03.270Z"
     }
   ]
 }
