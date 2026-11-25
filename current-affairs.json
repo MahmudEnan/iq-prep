@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-24T22:30:22.353Z",
-  "total": 7,
+  "updatedAt": "2026-11-25T08:42:45.122Z",
+  "total": 5,
   "questions": [
     {
       "id": "ca-b304f2ec98011d5928f0",
@@ -91,42 +91,6 @@
       "createdAt": "2026-11-23T07:46:31.375Z",
       "verifiedAt": "2026-11-23T07:46:31.375Z",
       "expiresAt": "2026-11-26T07:46:31.375Z"
-    },
-    {
-      "id": "ca-240f16b7d2e02fcc5b33",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 Utkarsh Classes",
-      "options": [
-        "India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 - Utkarsh Classes",
-        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today",
-        "Homegrown satellite to be launched within 3 years: PM - The Bangladesh Today",
-        "Tarique pledges to put satellite built by Bangladeshis into orbit in three years - bdnews24.com"
-      ],
-      "answer": 0,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0pNd1dFQmxzOWNoWlBFNFJaLW5NMDk5aUFTQ2FJREREbHQ3emRIZmxkTURSTno5dl96c245RE0zX3RaejFEejJray1tRjdSMDJkczB5ZXNWaVJiWWstRDZBYS1XUm5laU4tcFBWeEtMSmxRcm5ORzZQVFlSQmlMVGZoanF0Yzk0RkNmYkQwdjExWUdubXJpOWREUGd4ZHV3S2ZFM1RFTmFTNDBhc0UzN24tTUVqVkdDa0xZNGlSUlNsckRCSGRV?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-22T06:56:59.204Z",
-      "verifiedAt": "2026-11-22T06:56:59.204Z",
-      "expiresAt": "2026-11-25T06:56:59.204Z"
-    },
-    {
-      "id": "ca-5ea91df8e8c88375a4df",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Rooppur Unit 1 Connects to Bangladesh’s National Grid GK Today",
-      "options": [
-        "Homegrown satellite to be launched within 3 years: PM - The Bangladesh Today",
-        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today",
-        "India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 - Utkarsh Classes",
-        "Bangladesh to Launch Homegrown Satellite Within Three Years, Says PM - Daily Voice Of Asia"
-      ],
-      "answer": 1,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWUhURXREOTYxOFk2NDllUWc1Nk1Ta0FreFUzU3hmMEwzRTFoNThxbkFER3FyaGNKWjRNZ1BhUTdYY1FqVFB6ODdILVpPcTlaelVoZEtGT3JfQ1JPTEpEMnQybUNFQzA4Z1JURkU5emlwOENXcXZzSDNsX3JHTEN3Mk1B?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-22T06:56:59.204Z",
-      "verifiedAt": "2026-11-22T06:56:59.204Z",
-      "expiresAt": "2026-11-25T06:56:59.204Z"
     }
   ]
 }
