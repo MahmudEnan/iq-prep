@@ -1,7 +1,115 @@
 {
-  "updatedAt": "2026-11-25T08:42:45.122Z",
-  "total": 5,
+  "updatedAt": "2026-11-25T21:45:24.350Z",
+  "total": 11,
   "questions": [
+    {
+      "id": "ca-7c968eb94d5257a155c3",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Kieswetter Calls for Illicit Economy Measurement Framework Wisevoter",
+      "options": [
+        "School assembly news headlines today- November 26: Top national, sports and world news curated for you - India Today",
+        "UPSC Mains Answer Practice — GS 2: Shanghai Cooperation Organisation and India-Bangladesh relations (Week 182) - The Indian Express",
+        "Kieswetter Calls for Illicit Economy Measurement Framework - Wisevoter",
+        "South Africa Advances Local Green Hydrogen Economy - Wisevoter"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaHFadmJjQ2VvSE1WaTExaG9JcXR1RmJIazh2T2dfdWFScEMyNWxUYzNqeUVYRF9UUmFlVlBtOUtBcndfZXVxSW1JdTJMNTY1dnkwOTUzUkZXOGRDUFk0cVJZMS1vM0FUTlRuMFZfVWg3VXgyMWNobnJJXzBMRExzY3RDRHpNWDRWakJ4MTdJdjdwSTlH?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-25T21:45:24.350Z",
+      "verifiedAt": "2026-11-25T21:45:24.350Z",
+      "expiresAt": "2026-11-28T21:45:24.350Z"
+    },
+    {
+      "id": "ca-9b0006c2622ed2c5aa0e",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: South Africa Advances Local Green Hydrogen Economy Wisevoter",
+      "options": [
+        "UPSC Mains Answer Practice — GS 2: Shanghai Cooperation Organisation and India-Bangladesh relations (Week 182) - The Indian Express",
+        "Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates - Careers360",
+        "South Africa Advances Local Green Hydrogen Economy - Wisevoter",
+        "School assembly news headlines today- November 26: Top national, sports and world news curated for you - India Today"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh government economy science sports\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb2tsNnpSLUs3c2VwZllNZUgzcjJ6bXY1Q2Vya2kxQy1BNFNDSi03d2VXd2RFOUdEZTZwUmJxaFQ3UlBKX1dvc2wwNmxjZW1FbmhZTEViMjFBb3pKQ2xEdW5FOWlFdFpKanFtTnQ3eG1PaVFoSnJGSlVNVm1FVzJNbTRvclF3OFdKSHlla3R1Yw?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-25T21:45:24.350Z",
+      "verifiedAt": "2026-11-25T21:45:24.350Z",
+      "expiresAt": "2026-11-28T21:45:24.350Z"
+    },
+    {
+      "id": "ca-fa7bd2f2043ef05e8cf6",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 26: Top national, sports and world news curated for you India Today",
+      "options": [
+        "Kieswetter Calls for Illicit Economy Measurement Framework - Wisevoter",
+        "School assembly news headlines today- November 26: Top national, sports and world news curated for you - India Today",
+        "South Africa Advances Local Green Hydrogen Economy - Wisevoter",
+        "Women's FIFA World Cup 2035: UK Confirmed as Host and Tournament Details - Utkarsh Classes"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS21kSDNYVktVZDdLNVAwdV9oSXlZRXJUOVgtXzJWRW5laG9hMjNyT0phc1pid21YVHdIV1RWR1ZLN0VjNExuYmJyTEZGU0t3OVh3ck04a3FBWDhxN1ViX3JzcFEwZExNX3NmUkY5MC02c1lobWdxM2hjRklXdHIwaEdHWXVDTWxjTzBOOG5ienVlMmk5dUg5SnUyZF9kemtNckZUUWRwV2N5eDlFZW5XdzBtX3J5Tm5icDFUdGwyWjg2VTVOMk5zQzdTVjF3ak81czI0SWNlTlhTQlZOT0dFRG5qME1WWE0?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-25T21:45:24.350Z",
+      "verifiedAt": "2026-11-25T21:45:24.350Z",
+      "expiresAt": "2026-11-28T21:45:24.350Z"
+    },
+    {
+      "id": "ca-1e160b02458f9db33496",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: UPSC Mains Answer Practice — GS 2: Shanghai Cooperation Organisation and India-Bangladesh relations (Week 182) The Indian Express",
+      "options": [
+        "Women's FIFA World Cup 2035: UK Confirmed as Host and Tournament Details - Utkarsh Classes",
+        "Kieswetter Calls for Illicit Economy Measurement Framework - Wisevoter",
+        "UPSC Mains Answer Practice — GS 2: Shanghai Cooperation Organisation and India-Bangladesh relations (Week 182) - The Indian Express",
+        "School assembly news headlines today- November 26: Top national, sports and world news curated for you - India Today"
+      ],
+      "answer": 2,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"Bangladesh current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYlRnZFZBTXBndlFhLVpJVjBTVXpBT3o3TmFKNXg0bjkxdk1sRXFYRm04LU96cGRSOU5FM0RHVGVwR3VOUzh6ZWtTbGpTdzlSby1pbG0wVDBWUG55U19Rc2d4aHZ4RVZzVlhHaVdVYlBwaFptLXFVWnh6OUk2ZTFZWmxjNWVrNmVKdXh3ZFNsblBnXzY3bEFueXlQeGl6QXZ6aFpqVmp2WUl1aUcydTd6dFQzeUFWdTY1d3daZUd30gHEAUFVX3lxTE4wWEVJM0pYYUFUOHdGWGxQM19RV1pXaVZ1ZGdyNkVkMWNCY1ZmcW9Ya1E5UDZhNmZDeVRBSVR4ekYyZ3lPQThqajZsTzlIVzlaclNkUXdzbUtybEdONmx1dTMzaHVzdVVvb001NkRDN09hRjhtZW5vX28xNkpDM2U1NGVhendZbHhHelVwVFBMVk5lZV9Ibmlhdkp5SGJfNnd3T2xaZHpJeENJblBqMU1iUGlxX0dmRzVzeFB1a1poTnNyeFQ?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-25T21:45:24.350Z",
+      "verifiedAt": "2026-11-25T21:45:24.350Z",
+      "expiresAt": "2026-11-28T21:45:24.350Z"
+    },
+    {
+      "id": "ca-50449521719b3958cfc5",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Women's FIFA World Cup 2035: UK Confirmed as Host and Tournament Details Utkarsh Classes",
+      "options": [
+        "Kieswetter Calls for Illicit Economy Measurement Framework - Wisevoter",
+        "Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates - Careers360",
+        "School assembly news headlines today- November 26: Top national, sports and world news curated for you - India Today",
+        "Women's FIFA World Cup 2035: UK Confirmed as Host and Tournament Details - Utkarsh Classes"
+      ],
+      "answer": 3,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa3pTUkZCRW9PZ2lveVRBYUthR25sNldxMGhrUjFUd2xJcG1uT1FLU1BkZnVtU3kwbUdIQUVtcC1iR3kxYzd3c3paZGRuWlRfX1lhVWUyT2lIanFhNHE5dnNIQjNfd1p1WUh5ejBjekJtdTdCaEZWZ3oxcDZsMGFjc1BVbk1PeW9FTmVaZ2xMMmo3cHBoU05pOTBBSHVUUjc4Y19LSldCcWFueU4tS2lySGExcjYySW1vX3J0bDV4SV92SXdJSHA1dVl6eU1IZWg4TzdySG0ySFhwRGE2b01odUFR?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-25T21:45:24.350Z",
+      "verifiedAt": "2026-11-25T21:45:24.350Z",
+      "expiresAt": "2026-11-28T21:45:24.350Z"
+    },
+    {
+      "id": "ca-1c67cab8f626b2f67216",
+      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates Careers360",
+      "options": [
+        "Kieswetter Calls for Illicit Economy Measurement Framework - Wisevoter",
+        "Current Affairs 2026 (November Month): Latest Daily, Weekly & Monthly Updates - Careers360",
+        "Women's FIFA World Cup 2035: UK Confirmed as Host and Tournament Details - Utkarsh Classes",
+        "South Africa Advances Local Green Hydrogen Economy - Wisevoter"
+      ],
+      "answer": 1,
+      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
+      "source": "\"world international current affairs\" - Google News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE92U2JWUGdMd1ZxLUZmMGluXzJqX3FKb2Q1OEVEVlllWXpraW91enkwaVFwcU5ob0pCU2lGZnpnaE5xRy1EeVkxWWVkNGJxeXJZbnJMcHdjQU1qR0xTZ3pBcXhpWWVQMUNoSThzRFhrMTU3UQ?oc=5",
+      "category": "Current Affairs",
+      "createdAt": "2026-11-25T21:45:24.350Z",
+      "verifiedAt": "2026-11-25T21:45:24.350Z",
+      "expiresAt": "2026-11-28T21:45:24.350Z"
+    },
     {
       "id": "ca-b304f2ec98011d5928f0",
       "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Try watching this video on www.youtube.com , or enable JavaScript if it is disabled in your browser. theweek.in",
