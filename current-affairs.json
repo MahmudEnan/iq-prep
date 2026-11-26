@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-25T21:45:24.350Z",
-  "total": 11,
+  "updatedAt": "2026-11-26T08:27:29.629Z",
+  "total": 9,
   "questions": [
     {
       "id": "ca-7c968eb94d5257a155c3",
@@ -163,42 +163,6 @@
       "createdAt": "2026-11-24T09:59:11.743Z",
       "verifiedAt": "2026-11-24T09:59:11.743Z",
       "expiresAt": "2026-11-27T09:59:11.743Z"
-    },
-    {
-      "id": "ca-b1e8f19986878701751f",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: The Economist’s Latest Warning Is an Ominous Sign The New Nation",
-      "options": [
-        "India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 - Utkarsh Classes",
-        "School assembly news headlines today- November 23: Top national, sports and world news curated for you - India Today",
-        "The Economist’s Latest Warning Is an Ominous Sign - The New Nation",
-        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today"
-      ],
-      "answer": 2,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQQnk3ZEp4QUZmS0RJa2hmYzhwTkFZLVhyUEd3aTZTVndBTnZUc2NRU0hhVlNMY1RYa1V5dHdVeEJDc0NQb01IMFRqbFJfNWM?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-23T07:46:31.375Z",
-      "verifiedAt": "2026-11-23T07:46:31.375Z",
-      "expiresAt": "2026-11-26T07:46:31.375Z"
-    },
-    {
-      "id": "ca-8c9cb139c5516befa179",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: School assembly news headlines today- November 23: Top national, sports and world news curated for you India Today",
-      "options": [
-        "The Economist’s Latest Warning Is an Ominous Sign - The New Nation",
-        "School assembly news headlines today- November 23: Top national, sports and world news curated for you - India Today",
-        "Rooppur Unit 1 Connects to Bangladesh’s National Grid - GK Today",
-        "India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 - Utkarsh Classes"
-      ],
-      "answer": 1,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"world international current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeWU4TldtWUpIT00tTGZWVmthRDNNNW1MXzhNa19qNGp3c25zWjV4WVZ3MC1wbV9yR1MxN2RIZmVhcF9VNHRBRUlHQ3NGM0VWa2VEdzBqa2FVOWE2TFJkVjVQOXVLS1ZuX2MxNzRQSkhzc3ZGZGd4cWFleWxQT1hiQTB6LV9Rc25IbEY4ZThVTTN4QmFXN3lzQ1JaNDg4c3JtTjNfc1VSaTNrM2d3a0pDOUczV01iWFo0akRXRWRqaUxsNDdRczJfc1Z2LXl3c00zTDJuVkQyQllVMVVMYzhVMmFHUkJPQU0?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-23T07:46:31.375Z",
-      "verifiedAt": "2026-11-23T07:46:31.375Z",
-      "expiresAt": "2026-11-26T07:46:31.375Z"
     }
   ]
 }
