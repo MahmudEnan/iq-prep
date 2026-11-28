@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T08:42:19.696Z",
-  "total": 9,
+  "updatedAt": "2026-11-28T07:55:46.948Z",
+  "total": 6,
   "questions": [
     {
       "id": "ca-7c968eb94d5257a155c3",
@@ -109,60 +109,6 @@
       "createdAt": "2026-11-25T21:45:24.350Z",
       "verifiedAt": "2026-11-25T21:45:24.350Z",
       "expiresAt": "2026-11-28T21:45:24.350Z"
-    },
-    {
-      "id": "ca-b304f2ec98011d5928f0",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Try watching this video on www.youtube.com , or enable JavaScript if it is disabled in your browser. theweek.in",
-      "options": [
-        "The Economist’s Latest Warning Is an Ominous Sign - The New Nation",
-        "India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 - Utkarsh Classes",
-        "Sheikh Hasina seeks return to Bangladesh on December 16, asks for state carrier: Report | World News - Hindustan Times",
-        "Try watching this video on www.youtube.com , or enable JavaScript if it is disabled in your browser. - theweek.in"
-      ],
-      "answer": 3,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh current affairs\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUGdkdjRDVXduWHJaQW5GUGNlU2YwZ29HOFpaRkFUZzNzSkx4V1NwRWVScFZyQUtFTU9Ma0padXNtbUppQXZUaWktSDVBbXFXdUdld0xfZnZNOGNmcUhZVEFWVE40REFJZV80OTJqZm9Qb3FTS2p4c1dqdDQwZDBQSnYyLV9GZ1JsbTVHQkstVmRkdlJFY1BlOHZ1dkJyZXFuTTdqMXhZRXdkZmNsMVktdXJ3Zmdaa1JuUXpv?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-24T09:59:11.743Z",
-      "verifiedAt": "2026-11-24T09:59:11.743Z",
-      "expiresAt": "2026-11-27T09:59:11.743Z"
-    },
-    {
-      "id": "ca-f7bea42a7e86471adb78",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: ICT-wanted criminal Sheikh Hasina plans to return to Bangladesh on Dec. 16 Yeni Safak English",
-      "options": [
-        "Try watching this video on www.youtube.com , or enable JavaScript if it is disabled in your browser. - theweek.in",
-        "ICT-wanted criminal Sheikh Hasina plans to return to Bangladesh on Dec. 16 - Yeni Safak English",
-        "Sheikh Hasina seeks return to Bangladesh on December 16, asks for state carrier: Report | World News - Hindustan Times",
-        "India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 - Utkarsh Classes"
-      ],
-      "answer": 1,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh government economy science sports\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkkzSzdPY3ZoeDltRGpUZ3RhSnNSYzIyRXNLZFE1dzhxN1BVRUI5R182WkpWUkVETzhPNkZVNVd6MXphajg5SWR3bFdrV0JQWXZRanlzRktTa2M2d25GbVowYU5PRlhlWnlScDRDSms1LTI5Qlo0SGttWVFNeUJNSnltQnpRRFhUOTFxSHEtS05wbGtYUlduOG4wMkRMWHFkUjRVRTRsc201c2ZHajRWY2pn?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-24T09:59:11.743Z",
-      "verifiedAt": "2026-11-24T09:59:11.743Z",
-      "expiresAt": "2026-11-27T09:59:11.743Z"
-    },
-    {
-      "id": "ca-a265b8da8742cff5a83b",
-      "question": "According to this news summary, which headline best matches the reported development?\n\nSummary: Sheikh Hasina seeks return to Bangladesh on December 16, asks for state carrier: Report | World News Hindustan Times",
-      "options": [
-        "ICT-wanted criminal Sheikh Hasina plans to return to Bangladesh on Dec. 16 - Yeni Safak English",
-        "Try watching this video on www.youtube.com , or enable JavaScript if it is disabled in your browser. - theweek.in",
-        "Sheikh Hasina seeks return to Bangladesh on December 16, asks for state carrier: Report | World News - Hindustan Times",
-        "India-Bangladesh Ganga Water Treaty Nears Expiry on Dec 12 - Utkarsh Classes"
-      ],
-      "answer": 2,
-      "explanation": "The matching headline is taken directly from the linked RSS report. Compare it with the summary and open the source to read the full report.",
-      "source": "\"Bangladesh government economy science sports\" - Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbklla1pRVnVoakhqcEIzUlRGUC1NNlloNUluaVdMY2FvLUhsZEFXc2JwT1RMSUxNMFJvbWFReGVRdk10WjFpdFRUTUpJS0xhdm1ROURXWU42dnNxU0ZNMTJhNnFnZ0lqZEVvWkE3a2x1Rnp1bTUzbUZFYk4zUEZCbzVVWDRrMEdYNXNjWnlNZnRfOEs4MkI5ZFBxeEhqVjBBS0pPaVN4Nkt0TG00VjBvQ3lnWDVHNkF4OFZCMm4xM1hOajIzc0hVY3ozYnJGdzVIeU16bEVIZmJiWXZOWldRcElMNGlRWWfSAecBQVVfeXFMUG5JZWtaUVZ1aGpIanBCM1JURlAtTTZZaDVJbmlXTGNhby1IbGRBV3NicE9UTElMTTBSb21hUXhlUXZNdFoxaXRUVE1KSUtMYXZtUTlEV1lONnZzcVNGTTEyYTZxZ2dJamRFb1pBN2tsdUZ6dW01M21GRWJOM1BGQm81VVg0azBHWDVzY1p5TWZ0XzhLODJCOWRQcXhIalYwQUtKT2lTeDZLdExtNFYwb0N5Z1g1RzZBeDhWQjJuMTNYTmoyM3NIVWN6M2JyRnc1SHlNemxFSGZiYll2TlpXUXBJTDRpUVln?oc=5",
-      "category": "Current Affairs",
-      "createdAt": "2026-11-24T09:59:11.743Z",
-      "verifiedAt": "2026-11-24T09:59:11.743Z",
-      "expiresAt": "2026-11-27T09:59:11.743Z"
     }
   ]
 }
